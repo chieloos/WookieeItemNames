@@ -1,0 +1,1673 @@
+# Default Config.yml! -chieloos
+items:
+  '1':
+    '0':
+      name: Stone
+      abbreviation: abv
+  '2':
+    '0':
+      name: Grass
+      abbreviation: abv
+  '3':
+    '0':
+      name: Dirt
+      abbreviation: abv
+  '4':
+    '0':
+      name: Cobblestone
+      abbreviation: abv
+  '5':
+    '0':
+      name: Plank
+      abbreviation: abv
+  '6':
+    '0':
+      name: Oak Sapling
+      abbreviation: abv
+    '1':
+      name: Spruce Sapling
+      abbreviation: abv
+    '2':
+      name: Birch Sapling
+      abbreviation: abv
+    '3':
+      name: Jungle Sapling
+      abbreviation: abv
+  '7':
+    '0':
+      name: Bedrock
+      abbreviation: abv
+  '8':
+    '0':
+      name: Water
+      abbreviation: abv
+  '9':
+    '0':
+      name: Stationary Water
+      abbreviation: abv
+  '10':
+    '0':
+      name: Lava
+      abbreviation: abv
+  '11':
+    '0':
+      name: Stationary Lava
+      abbreviation: abv
+  '12':
+    '0':
+      name: Sand
+      abbreviation: abv
+  '13':
+    '0':
+      name: Gravel
+      abbreviation: abv
+  '14':
+    '0':
+      name: Gold Ore
+      abbreviation: abv
+  '15':
+    '0':
+      name: Iron Ore
+      abbreviation: abv
+  '16':
+    '0':
+      name: Coal Ore
+      abbreviation: abv
+  '17':
+    '0':
+      name: Oak Wood
+      abbreviation: abv
+    '1':
+      name: Spruce Wood
+      abbreviation: abv
+    '2':
+      name: Birch Wood
+      abbreviation: abv
+    '3':
+      name: Jungle Wood
+      abbreviation: abv
+  '18':
+    '0':
+      name: Oak Leaves
+      abbreviation: abv
+    '1':
+      name: Spruce Leaves
+      abbreviation: abv
+    '2':
+      name: Birch Leaves
+      abbreviation: abv
+    '3':
+      name: Jungle Leaves
+      abbreviation: abv
+  '19':
+    '0':
+      name: Sponge
+      abbreviation: abv
+  '20':
+    '0':
+      name: Glass
+      abbreviation: abv
+  '21':
+    '0':
+      name: Lapis Ore
+      abbreviation: abv
+  '22':
+    '0':
+      name: Lapis Block
+      abbreviation: abv
+  '23':
+    '0':
+      name: Dispenser
+      abbreviation: abv
+  '24':
+    '0':
+      name: Sandstone
+      abbreviation: abv
+    '1':
+      name: Chiseled Sandstone
+      abbreviation: abv
+    '2':
+      name: Smooth Sandstone
+      abbreviation: abv
+  '25':
+    '0':
+      name: Note Block
+      abbreviation: abv
+  '26':
+    '0':
+      name: Bed Block
+      abbreviation: abv
+  '27':
+    '0':
+      abbreviation: abv
+      name: Powered Rail
+  '28':
+    '0':
+      name: Detector Rail
+      abbreviation: abv
+  '29':
+    '0':
+      name: Piston Sticky Base
+      abbreviation: abv
+  '30':
+    '0':
+      name: Web
+      abbreviation: abv
+  '31':
+    '0':
+      name: Shrub
+      abbreviation: abv
+    '0':
+      name: Long Grass
+      abbreviation: abv
+    '0':
+      name: Fern
+      abbreviation: abv
+  '32':
+    '0':
+      name: Dead Bush
+      abbreviation: abv
+  '33':
+    '0':
+      name: Piston Base
+      abbreviation: abv
+  '34':
+    '0':
+      name: Piston Extension
+      abbreviation: abv
+  '35':
+    '0':
+      name: White Wool
+      abbreviation: abv
+    '1':
+      name: Orange Wool
+      abbreviation: abv
+    '2':
+      name: Magenta Wool
+      abbreviation: abv
+    '3':
+      name: Light Blue Wool
+      abbreviation: abv
+    '4':
+      name: Yellow Wool
+      abbreviation: abv
+    '5':
+      name: Lime Wool
+      abbreviation: abv
+    '6':
+      name: Pink Wool
+      abbreviation: abv
+    '7':
+      name: Gray Wool
+      abbreviation: abv
+    '8':
+      name: Light Gray Wool
+      abbreviation: abv
+    '9':
+      name: Cyan Wool
+      abbreviation: abv
+    '10':
+      name: Purple Wool
+      abbreviation: abv
+    '11':
+      name: Blue Wool
+      abbreviation: abv
+    '12':
+      name: Brown Wool
+      abbreviation: abv
+    '13':
+      name: Green Wool
+      abbreviation: abv
+    '14':
+      name: Red Wool
+      abbreviation: abv
+    '15':
+      name: Black Wool
+      abbreviation: abv
+  '36':
+    '0':
+      name: Piston Moving Piece
+      abbreviation: abv
+  '37':
+    '0':
+      name: Yellow Flower
+      abbreviation: abv
+  '38':
+    '0':
+      name: Red Rose
+      abbreviation: abv
+  '39':
+    '0':
+      name: Brown Mushroom
+      abbreviation: abv
+  '40':
+    '0':
+      name: Red Mushroom
+      abbreviation: abv
+  '41':
+    '0':
+      name: Gold Block
+      abbreviation: abv
+  '42':
+    '0':
+      name: Iron Block
+      abbreviation: abv
+  '43':
+    '0':
+      name: Double Step
+      abbreviation: abv
+  '44':
+    '0':
+      name: Stone Slab
+      abbreviation: abv
+    '1':
+      name: Sandstone Slab
+      abbreviation: abv
+    '2':
+      name: Wooden Slab
+      abbreviation: abv
+    '3':
+      name: Cobblestone slab
+      abbreviation: abv
+    '4':
+      name: Brick Slab
+      abbreviation: abv
+    '5':
+      name: Stone Brick Slab
+      abbreviation: abv
+    '6':
+      name: Nether Brick Slab
+      abbreviation: abv
+    '7':
+      name: Quartz Slab
+      abbreviation: abv
+    '8':
+      name: Smooth Stone Slab
+      abbreviation: abv
+    '9':
+      name: Smooth Sandstone Slab
+      abbreviation: abv
+  '45':
+    '0':
+      name: Brick
+      abbreviation: abv
+  '46':
+    '0':
+      name: TNT
+      abbreviation: abv
+  '47':
+    '0':
+      name: Bookshelf
+      abbreviation: abv
+  '48':
+    '0':
+      name: Mossy Cobblestone
+      abbreviation: abv
+  '49':
+    '0':
+      name: Obsidian
+      abbreviation: abv
+  '50':
+    '0':
+      name: Torch
+      abbreviation: abv
+  '51':
+    '0':
+      name: Fire
+      abbreviation: abv
+  '52':
+    '0':
+      name: Mob Spawner
+      abbreviation: abv
+  '53':
+    '0':
+      name: Wood Stairs
+      abbreviation: abv
+  '54':
+    '0':
+      name: Chest
+      abbreviation: abv
+  '55':
+    '0':
+      name: Redstone Wire
+      abbreviation: abv
+  '56':
+    '0':
+      name: Diamond Ore
+      abbreviation: abv
+  '57':
+    '0':
+      name: Diamond Block
+      abbreviation: abv
+  '58':
+    '0':
+      name: Workbench
+      abbreviation: abv
+  '59':
+    '0':
+      name: Crops
+      abbreviation: abv
+  '60':
+    '0':
+      name: Soil
+      abbreviation: abv
+  '61':
+    '0':
+      name: Furnace
+      abbreviation: abv
+  '62':
+    '0':
+      name: Burning Furnace
+      abbreviation: abv
+  '63':
+    '0':
+      name: Sign Post
+      abbreviation: abv
+  '64':
+    '0':
+      name: Wooden Door
+      abbreviation: abv
+  '65':
+    '0':
+      name: Ladder
+      abbreviation: abv
+  '66':
+    '0':
+      name: Rails
+      abbreviation: abv
+  '67':
+    '0':
+      name: Cobblestone Stairs
+      abbreviation: abv
+  '68':
+    '0':
+      name: Wall Sign
+      abbreviation: abv
+  '69':
+    '0':
+      name: Lever
+      abbreviation: abv
+  '70':
+    '0':
+      name: Stone Plate
+      abbreviation: abv
+  '71':
+    '0':
+      name: Iron Door Block
+      abbreviation: abv
+  '72':
+    '0':
+      name: Wood Plate
+      abbreviation: abv
+  '73':
+    '0':
+      name: Redstone Ore
+      abbreviation: abv
+  '74':
+    '0':
+      name: Glowing Redstone Ore
+      abbreviation: abv
+  '75':
+    '0':
+      name: Redstone Torch Off
+      abbreviation: abv
+  '76':
+    '0':
+      name: Redstone Torch On
+      abbreviation: abv
+  '77':
+    '0':
+      name: Stone Button
+      abbreviation: abv
+  '78':
+    '0':
+      name: Snow
+      abbreviation: abv
+  '79':
+    '0':
+      name: Ice
+      abbreviation: abv
+  '80':
+    '0':
+      name: Snow Block
+      abbreviation: abv
+  '81':
+    '0':
+      name: Cactus
+      abbreviation: abv
+  '82':
+    '0':
+      name: Clay
+      abbreviation: abv
+  '83':
+    '0':
+      name: Sugar cane block
+      abbreviation: abv
+  '84':
+    '0':
+      name: Jukebox
+      abbreviation: abv
+  '85':
+    '0':
+      name: Fence
+      abbreviation: abv
+  '86':
+    '0':
+      name: Pumpkin
+      abbreviation: abv
+  '87':
+    '0':
+      name: Netherrack
+      abbreviation: abv
+  '88':
+    '0':
+      name: Soul Sand
+      abbreviation: abv
+  '89':
+    '0':
+      name: Glowstone
+      abbreviation: abv
+  '90':
+    '0':
+      name: Portal
+      abbreviation: abv
+  '91':
+    '0':
+      name: Jack O Lantern
+      abbreviation: abv
+  '92':
+    '0':
+      name: Cake Block
+      abbreviation: abv
+  '93':
+    '0':
+      name: Diode Block Off
+      abbreviation: abv
+  '94':
+    '0':
+      name: Diode Block On
+      abbreviation: abv
+  '95':
+    '0':
+      name: Locked Chest
+      abbreviation: abv
+  '96':
+    '0':
+      name: Trap Door
+      abbreviation: abv
+  '97':
+    '0':
+      name: Monster Eggs
+      abbreviation: abv
+  '98':
+    '0':
+      name: Stone Brick
+      abbreviation: abv
+    '1':
+      name: Mossy Brick
+      abbreviation: abv
+    '2':
+      name: Cracked Brick
+      abbreviation: abv
+    '3':
+      name: Chiseled Brick
+      abbreviation: abv
+  '99':
+    '0':
+      name: Huge Mushroom 1
+      abbreviation: abv
+  '100':
+    '0':
+      name: Huge Mushroom 2
+      abbreviation: abv
+  '101':
+    '0':
+      name: Iron Fence
+      abbreviation: abv
+  '102':
+    '0':
+      name: Thin Glass
+      abbreviation: abv
+  '103':
+    '0':
+      name: Melon Block
+      abbreviation: abv
+  '104':
+    '0':
+      name: Pumpkin Stem
+      abbreviation: abv
+  '105':
+    '0':
+      name: Melon Stem
+      abbreviation: abv
+  '106':
+    '0':
+      name: Vine
+      abbreviation: abv
+  '107':
+    '0':
+      name: Fence gate
+      abbreviation: abv
+  '108':
+    '0':
+      name: Brick Stairs
+      abbreviation: abv
+  '109':
+    '0':
+      name: Smooth Stairs
+      abbreviation: abv
+  '110':
+    '0':
+      name: Mycel
+      abbreviation: abv
+  '111':
+    '0':
+      name: Water Lily
+      abbreviation: abv
+  '112':
+    '0':
+      name: Nether Brick
+      abbreviation: abv
+  '113':
+    '0':
+      name: Nether Fence
+      abbreviation: abv
+  '114':
+    '0':
+      name: Nether Brick Stairs
+      abbreviation: abv
+  '115':
+    '0':
+      name: Nether Warts
+      abbreviation: abv
+  '116':
+    '0':
+      name: Enchantment Table
+      abbreviation: abv
+  '117':
+    '0':
+      name: Brewing Stand
+      abbreviation: abv
+  '118':
+    '0':
+      name: Cauldron
+      abbreviation: abv
+  '119':
+    '0':
+      name: Ender Portal
+      abbreviation: abv
+  '120':
+    '0':
+      name: Ender Portal Frame
+      abbreviation: abv
+  '121':
+    '0':
+      name: Ender Stone
+      abbreviation: abv
+  '122':
+    '0':
+      name: Dragon Egg
+      abbreviation: abv
+  '123':
+    '0':
+      name: Redstone Lamp Off
+      abbreviation: abv
+  '124':
+    '0':
+      name: Redstone Lamp On
+      abbreviation: abv
+  '125':
+    '0':
+      name: Wood Double Step
+      abbreviation: abv
+  '126':
+    '0':
+      name: Oak Wood Step
+      abbreviation: abv
+    '1':
+      name: Spruce Wood Step
+      abbreviation: abv
+    '2':
+      name: Birch Wood Step
+      abbreviation: abv
+    '3':
+      name: Jungle Wood Step
+      abbreviation: abv
+  '127':
+    '0':
+      name: Cocoa
+      abbreviation: abv
+  '128':
+    '0':
+      name: Sandstone Stairs
+      abbreviation: abv
+  '129':
+    '0':
+      name: Emerald Ore
+      abbreviation: abv
+  '130':
+    '0':
+      name: Ender Chest
+      abbreviation: abv
+  '131':
+    '0':
+      name: Tripwire Hook
+      abbreviation: abv
+  '132':
+    '0':
+      name: Tripwire
+      abbreviation: abv
+  '133':
+    '0':
+      name: Emerald Block
+      abbreviation: abv
+  '134':
+    '0':
+      name: Spruce Wood Stairs
+      abbreviation: abv
+  '135':
+    '0':
+      name: Birch Wood Stairs
+      abbreviation: abv
+  '136':
+    '0':
+      name: Jungle Wood Stairs
+      abbreviation: abv
+  '137':
+    '0':
+      name: Command
+      abbreviation: abv
+  '138':
+    '0':
+      name: Beacon
+      abbreviation: abv
+  '139':
+    '0':
+      name: Cobble Wall
+      abbreviation: abv
+  '140':
+    '0':
+      name: Flower Pot
+      abbreviation: abv
+  '141':
+    '0':
+      name: Carrot
+      abbreviation: abv
+  '142':
+    '0':
+      name: Potato
+      abbreviation: abv
+  '143':
+    '0':
+      name: Wood Button
+      abbreviation: abv
+  '144':
+    '0':
+      name: Skull
+      abbreviation: abv
+  '145':
+    '0':
+      name: Anvil
+      abbreviation: abv
+  '256':
+    '0':
+      name: Iron Spade
+      abbreviation: abv
+  '257':
+    '0':
+      name: Iron Pickaxe
+      abbreviation: abv
+  '258':
+    '0':
+      name: Iron Axe
+      abbreviation: abv
+  '259':
+    '0':
+      name: Flint And Steel
+      abbreviation: abv
+  '260':
+    '0':
+      name: Apple
+      abbreviation: abv
+  '261':
+    '0':
+      name: Bow
+      abbreviation: abv
+  '262':
+    '0':
+      name: Arrow
+      abbreviation: abv
+  '263':
+    '0':
+      name: Coal
+      abbreviation: abv
+  '264':
+    '0':
+      name: Diamond
+      abbreviation: abv
+  '265':
+    '0':
+      name: Iron Ingot
+      abbreviation: abv
+  '266':
+    '0':
+      name: Gold Ingot
+      abbreviation: abv
+  '267':
+    '0':
+      name: Iron Sword
+      abbreviation: abv
+  '268':
+    '0':
+      name: Wood Sword
+      abbreviation: abv
+  '269':
+    '0':
+      name: Wood Spade
+      abbreviation: abv
+  '270':
+    '0':
+      name: Wood Pickaxe
+      abbreviation: abv
+  '271':
+    '0':
+      name: Wood Axe
+      abbreviation: abv
+  '272':
+    '0':
+      name: Stone Sword
+      abbreviation: abv
+  '273':
+    '0':
+      name: Stone Spade
+      abbreviation: abv
+  '274':
+    '0':
+      name: Stone Pickaxe
+      abbreviation: abv
+  '275':
+    '0':
+      name: Stone Axe
+      abbreviation: abv
+  '276':
+    '0':
+      name: Diamond Sword
+      abbreviation: abv
+  '277':
+    '0':
+      name: Diamond Spade
+      abbreviation: abv
+  '278':
+    '0':
+      name: Diamond Pickaxe
+      abbreviation: abv
+  '279':
+    '0':
+      name: Diamond Axe
+      abbreviation: abv
+  '280':
+    '0':
+      name: Stick
+      abbreviation: abv
+  '281':
+    '0':
+      name: Bowl
+      abbreviation: abv
+  '282':
+    '0':
+      name: Mushroom Soup
+      abbreviation: abv
+  '283':
+    '0':
+      name: Gold Sword
+      abbreviation: abv
+  '284':
+    '0':
+      name: Gold Spade
+      abbreviation: abv
+  '285':
+    '0':
+      name: Gold Pickaxe
+      abbreviation: abv
+  '286':
+    '0':
+      name: Gold Axe
+      abbreviation: abv
+  '287':
+    '0':
+      name: String
+      abbreviation: abv
+  '288':
+    '0':
+      name: Feather
+      abbreviation: abv
+  '289':
+    '0':
+      name: Sulphur
+      abbreviation: abv
+  '290':
+    '0':
+      name: Wood Hoe
+      abbreviation: abv
+  '291':
+    '0':
+      name: Stone Hoe
+      abbreviation: abv
+  '292':
+    '0':
+      name: Iron Hoe
+      abbreviation: abv
+  '293':
+    '0':
+      name: Diamond Hoe
+      abbreviation: abv
+  '294':
+    '0':
+      name: Gold Hoe
+      abbreviation: abv
+  '295':
+    '0':
+      name: Seeds
+      abbreviation: abv
+  '296':
+    '0':
+      name: Wheat
+      abbreviation: abv
+  '297':
+    '0':
+      name: Bread
+      abbreviation: abv
+  '298':
+    '0':
+      name: Leather Helmet
+      abbreviation: abv
+  '299':
+    '0':
+      name: Leather Chestplate
+      abbreviation: abv
+  '300':
+    '0':
+      name: Leather Leggings
+      abbreviation: abv
+  '301':
+    '0':
+      name: Leather Boots
+      abbreviation: abv
+  '302':
+    '0':
+      name: Chainmail Helmet
+      abbreviation: abv
+  '303':
+    '0':
+      name: Chainmail Chestplate
+      abbreviation: abv
+  '304':
+    '0':
+      name: Chainmail Leggings
+      abbreviation: abv
+  '305':
+    '0':
+      name: Chainmail Boots
+      abbreviation: abv
+  '306':
+    '0':
+      name: Iron Helmet
+      abbreviation: abv
+  '307':
+    '0':
+      name: Iron Chestplate
+      abbreviation: abv
+  '308':
+    '0':
+      name: Iron Leggings
+      abbreviation: abv
+  '309':
+    '0':
+      name: Iron Boots
+      abbreviation: abv
+  '310':
+    '0':
+      name: Diamond Helmet
+      abbreviation: abv
+  '311':
+    '0':
+      name: Diamond Chestplate
+      abbreviation: abv
+  '312':
+    '0':
+      name: Diamond Leggings
+      abbreviation: abv
+  '313':
+    '0':
+      name: Diamond Boots
+      abbreviation: abv
+  '314':
+    '0':
+      name: Gold Helmet
+      abbreviation: abv
+  '315':
+    '0':
+      name: Gold Chestplate
+      abbreviation: abv
+  '316':
+    '0':
+      name: Gold Leggings
+      abbreviation: abv
+  '317':
+    '0':
+      name: Gold Boots
+      abbreviation: abv
+  '318':
+    '0':
+      name: Flint
+      abbreviation: abv
+  '319':
+    '0':
+      name: Pork
+      abbreviation: abv
+  '320':
+    '0':
+      name: Grilled Pork
+      abbreviation: abv
+  '321':
+    '0':
+      name: Painting
+      abbreviation: abv
+  '322':
+    '0':
+      name: Golden Apple
+      abbreviation: abv
+  '323':
+    '0':
+      name: Sign
+      abbreviation: abv
+  '324':
+    '0':
+      name: Wood Door
+      abbreviation: abv
+  '325':
+    '0':
+      name: Bucket
+      abbreviation: abv
+  '326':
+    '0':
+      name: Water Bucket
+      abbreviation: abv
+  '327':
+    '0':
+      name: Lava Bucket
+      abbreviation: abv
+  '328':
+    '0':
+      name: Minecart
+      abbreviation: abv
+  '329':
+    '0':
+      name: Saddle
+      abbreviation: abv
+  '330':
+    '0':
+      name: Iron Door
+      abbreviation: abv
+  '331':
+    '0':
+      name: Redstone
+      abbreviation: abv
+  '332':
+    '0':
+      name: Snow Ball
+      abbreviation: abv
+  '333':
+    '0':
+      name: Boat
+      abbreviation: abv
+  '334':
+    '0':
+      name: Leather
+      abbreviation: abv
+  '335':
+    '0':
+      name: Milk Bucket
+      abbreviation: abv
+  '336':
+    '0':
+      name: Clay Brick
+      abbreviation: abv
+  '337':
+    '0':
+      name: Clay Ball
+      abbreviation: abv
+  '338':
+    '0':
+      name: Sugar Cane
+      abbreviation: abv
+  '339':
+    '0':
+      name: Paper
+      abbreviation: abv
+  '340':
+    '0':
+      name: Book
+      abbreviation: abv
+  '341':
+    '0':
+      name: Slime Ball
+      abbreviation: abv
+  '342':
+    '0':
+      name: Storage Minecart
+      abbreviation: abv
+  '343':
+    '0':
+      name: Powered Minecart
+      abbreviation: abv
+  '344':
+    '0':
+      name: Egg
+      abbreviation: abv
+  '345':
+    '0':
+      name: Compass
+      abbreviation: abv
+  '346':
+    '0':
+      name: Fishing Rod
+      abbreviation: abv
+  '347':
+    '0':
+      name: Watch
+      abbreviation: abv
+  '348':
+    '0':
+      name: Glowstone Dust
+      abbreviation: abv
+  '349':
+    '0':
+      name: Raw Fish
+      abbreviation: abv
+  '350':
+    '0':
+      name: Cooked Fish
+      abbreviation: abv
+  '351':
+    '0':
+      name: Ink Sac
+      abbreviation: abv
+    '1':
+      name: Rose Red
+      abbreviation: abv
+    '2':
+      name: Cactus Green
+      abbreviation: abv
+    '3':
+      name: Cocoa Beans
+      abbreviation: abv
+    '4':
+      name: Lapis Lazuli
+      abbreviation: abv
+    '5':
+      name: Purple Dye
+      abbreviation: abv
+    '6':
+      name: Cyan Dye
+      abbreviation: abv
+    '7':
+      name: Light Gray Dye
+      abbreviation: abv
+    '8':
+      name: Gray Dye
+      abbreviation: abv
+    '9':
+      name: Pink Dye
+      abbreviation: abv
+    '10':
+      name: Lime Dye
+      abbreviation: abv
+    '11':
+      name: Dandelion Yellow
+      abbreviation: abv
+    '12':
+      name: Light Blue Dye
+      abbreviation: abv
+    '13':
+      name: Magenta Dye
+      abbreviation: abv
+    '14':
+      name: Orange Dye
+      abbreviation: abv
+    '15':
+      name: Bone Meal
+      abbreviation: abv
+  '352':
+    '0':
+      name: Bone
+      abbreviation: abv
+  '353':
+    '0':
+      name: Sugar
+      abbreviation: abv
+  '354':
+    '0':
+      name: Cake
+      abbreviation: abv
+  '355':
+    '0':
+      name: Bed
+      abbreviation: abv
+  '356':
+    '0':
+      name: Diode
+      abbreviation: abv
+  '357':
+    '0':
+      name: Cookie
+      abbreviation: abv
+  '358':
+    '0':
+      name: Map
+      abbreviation: abv
+  '359':
+    '0':
+      name: Shears
+      abbreviation: abv
+  '360':
+    '0':
+      name: Melon
+      abbreviation: abv
+  '361':
+    '0':
+      name: Pumpkin seeds
+      abbreviation: abv
+  '362':
+    '0':
+      name: Melon Seeds
+      abbreviation: abv
+  '363':
+    '0':
+      name: Raw Beef
+      abbreviation: abv
+  '364':
+    '0':
+      name: Cooked Beef
+      abbreviation: abv
+  '365':
+    '0':
+      name: Raw Chicken
+      abbreviation: abv
+  '366':
+    '0':
+      name: Cooked Chicken
+      abbreviation: abv
+  '367':
+    '0':
+      name: Rotten Flesh
+      abbreviation: abv
+  '368':
+    '0':
+      name: Ender Pearl
+      abbreviation: abv
+  '369':
+    '0':
+      name: Blaze Rod
+      abbreviation: abv
+  '370':
+    '0':
+      name: Ghast Tear
+      abbreviation: abv
+  '371':
+    '0':
+      name: Gold Nugget
+      abbreviation: abv
+  '372':
+    '0':
+      name: Nether Stalk
+      abbreviation: abv
+  '373':
+    '0':
+      name: Water Bottle
+      abbreviation: abv
+    '16':
+      name: Awkward Potion
+      abbreviation: abv
+    '32':
+      name: Thick Potion
+      abbreviation: abv
+    '64':
+      name: Mundane Potion(e)
+      abbreviation: abv
+    '8192':
+      name: Mundane Potion
+      abbreviation: abv
+    '8193':
+      name: Potion of Regeneration
+      abbreviation: abv
+    '8194':
+      name: Potion of Swiftness
+      abbreviation: abv
+    '8195':
+      name: Potion of Fire Resistance
+      abbreviation: abv
+    '8196':
+      name: Potion of Poison
+      abbreviation: abv
+    '8197':
+      name: Potion of Instant Health
+      abbreviation: abv
+    '8198':
+      name: Potion of Night Vision
+      abbreviation: abv
+    '8200':
+      name: Potion of Weakness
+      abbreviation: abv
+    '8201':
+      name: Potion of Stength
+      abbreviation: abv
+    '8202':
+      name: Potion of Slowness
+      abbreviation: abv
+    '8204':
+      name: Potion of Harming
+      abbreviation: abv
+    '8206':
+      name: Potion of Invisibility
+      abbreviation: abv
+    '8225':
+      name: Potion of Regeneration II
+      abbreviation: abv
+    '8226':
+      name: Potion of Swiftness II
+      abbreviation: abv
+    '8227':
+      name: Potion of Fire Resistance
+      abbreviation: abv
+    '8228':
+      name: Potion of Poison II
+      abbreviation: abv
+    '8229':
+      name: Potion of Instant Health II
+      abbreviation: abv
+    '8230':
+      name: Potion of Night Vision
+      abbreviation: abv
+    '8232':
+      name: Potion of Weakness
+      abbreviation: abv
+    '8233':
+      name: Potion of Stength II
+      abbreviation: abv
+    '8234':
+      name: Potion of Slowness
+      abbreviation: abv
+    '8236':
+      name: Potion of Harming II
+      abbreviation: abv
+    '8238':
+      name: Potion of Invisibility
+      abbreviation: abv
+    '8257':
+      name: Potion of Regeneration(e)
+      abbreviation: abv
+    '8258':
+      name: Potion of Swiftness(e)
+      abbreviation: abv
+    '8259':
+      name: Potion of Fire Resistance(e)
+      abbreviation: abv
+    '8260':
+      name: Potion of Poison(e)
+      abbreviation: abv
+    '8261':
+      name: Potion of Instant Health
+      abbreviation: abv
+    '8262':
+      name: Potion of Night Vision(e)
+      abbreviation: abv
+    '8264':
+      name: Potion of Weakness(e)
+      abbreviation: abv
+    '8265':
+      name: Potion of Stength(e)
+      abbreviation: abv
+    '8266':
+      name: Potion of Slowness(e)
+      abbreviation: abv
+    '8268':
+      name: Potion of Harming
+      abbreviation: abv
+    '8270':
+      name: Potion of Invisibility(e)
+      abbreviation: abv
+    '16385':
+      name: Potion of Regeneration(s)
+      abbreviation: abv
+    '16386':
+      name: Potion of Swiftness(s)
+      abbreviation: abv
+    '16387':
+      name: Potion of Fire Resistance(s)
+      abbreviation: abv
+    '16388':
+      name: Potion of Poison(s)
+      abbreviation: abv
+    '16389':
+      name: Potion of Instant Health(s)
+      abbreviation: abv
+    '16390':
+      name: Potion of Night Vision(s)
+      abbreviation: abv
+    '16392':
+      name: Potion of Weakness(s)
+      abbreviation: abv
+    '16393':
+      name: Potion of Stength(s)
+      abbreviation: abv
+    '16394':
+      name: Potion of Slowness(s)
+      abbreviation: abv
+    '16396':
+      name: Potion of Harming(s)
+      abbreviation: abv
+    '16398':
+      name: Potion of Invisibility(s)
+      abbreviation: abv
+    '16417':
+      name: Potion of Regeneration II(s)
+      abbreviation: abv
+    '16418':
+      name: Potion of Swiftness II(s)
+      abbreviation: abv
+    '16419':
+      name: Potion of Fire Resistance(s)
+      abbreviation: abv
+    '16420':
+      name: Potion of Poison II(s)
+      abbreviation: abv
+    '16421':
+      name: Potion of Instant Health II(s)
+      abbreviation: abv
+    '16422':
+      name: Potion of Night Vision(s)
+      abbreviation: abv
+    '16424':
+      name: Potion of Weakness(s)
+      abbreviation: abv
+    '16425':
+      name: Potion of Stength II(s)
+      abbreviation: abv
+    '16426':
+      name: Potion of Slowness(s)
+      abbreviation: abv
+    '16428':
+      name: Potion of Harming II(s)
+      abbreviation: abv
+    '16430':
+      name: Potion of Invisibility(s)
+      abbreviation: abv
+    '16449':
+      name: Potion of Regeneration(e,s)
+      abbreviation: abv
+    '16450':
+      name: Potion of Swiftness(e,s)
+      abbreviation: abv
+    '16451':
+      name: Potion of Fire Resistance(e,s)
+      abbreviation: abv
+    '16452':
+      name: Potion of Poison(e,s)
+      abbreviation: abv
+    '16453':
+      name: Potion of Instant Health(s)
+      abbreviation: abv
+    '16454':
+      name: Potion of Night Vision(e,s)
+      abbreviation: abv
+    '16456':
+      name: Potion of Weakness(e,s)
+      abbreviation: abv
+    '16457':
+      name: Potion of Stength(e,s)
+      abbreviation: abv
+    '16458':
+      name: Potion of Slowness(e,s)
+      abbreviation: abv
+    '16460':
+      name: Potion of Harming(s)
+      abbreviation: abv
+    '16462':
+      name: Potion of Invisibility(e,s)
+      abbreviation: abv
+  '374':
+    '0':
+      name: Glass Bottle
+      abbreviation: abv
+  '375':
+    '0':
+      name: Spider Eye
+      abbreviation: abv
+  '376':
+    '0':
+      name: Fermented Spider Eye
+      abbreviation: abv
+  '377':
+    '0':
+      name: Blaze Powder
+      abbreviation: abv
+  '378':
+    '0':
+      name: Magma Cream
+      abbreviation: abv
+  '379':
+    '0':
+      name: Brewing Stand Item
+      abbreviation: abv
+  '380':
+    '0':
+      name: Cauldron Item
+      abbreviation: abv
+  '381':
+    '0':
+      name: Eye Of Ender
+      abbreviation: abv
+  '382':
+    '0':
+      name: Speckled Melon
+      abbreviation: abv
+  '383':
+    '0':
+      name: Monster Egg
+      abbreviation: abv
+  '384':
+    '0':
+      name: Exp bottle
+      abbreviation: abv
+  '385':
+    '0':
+      name: Fireball
+      abbreviation: abv
+  '386':
+    '0':
+      name: Book and Quill
+      abbreviation: abv
+  '387':
+    '0':
+      name: Written Book
+      abbreviation: abv
+  '388':
+    '0':
+      name: Emerald
+      abbreviation: abv
+  '389':
+    '0':
+      name: Item Frame
+      abbreviation: abv
+  '390':
+    '0':
+      name: Flower Pot Item
+      abbreviation: abv
+  '391':
+    '0':
+      name: Carrot Item
+      abbreviation: abv
+  '392':
+    '0':
+      name: Potato Item
+      abbreviation: abv
+  '393':
+    '0':
+      name: Baked Potato
+      abbreviation: abv
+  '394':
+    '0':
+      name: Poisonous Potato
+      abbreviation: abv
+  '395':
+    '0':
+      name: Empty Map
+      abbreviation: abv
+  '396':
+    '0':
+      name: Golden Carrot
+      abbreviation: abv
+  '397':
+    '0':
+      name: Skull Item
+      abbreviation: abv
+  '398':
+    '0':
+      name: Carrot Stick
+      abbreviation: abv
+  '399':
+    '0':
+      name: Nether Star
+      abbreviation: abv
+  '400':
+    '0':
+      name: Pumpkin Pie
+      abbreviation: abv
+  '401':
+    '0':
+      name: Firework
+      abbreviation: abv
+  '402':
+    '0':
+      name: Firework Charge
+      abbreviation: abv
+  '403':
+    '0':
+      name: Enchanted Book
+      abbreviation: abv
+  '2256':
+    '0':
+      name: Gold Record
+      abbreviation: abv
+  '2257':
+    '0':
+      name: Green Record
+      abbreviation: abv
+  '2258':
+    '0':
+      name: Record 3
+      abbreviation: abv
+  '2259':
+    '0':
+      name: Record 4
+      abbreviation: abv
+  '2260':
+    '0':
+      name: Record 5
+      abbreviation: abv
+  '2261':
+    '0':
+      name: Record 6
+      abbreviation: abv
+  '2262':
+    '0':
+      name: Record 7
+      abbreviation: abv
+  '2263':
+    '0':
+      name: Record 8
+      abbreviation: abv
+  '2264':
+    '0':
+      name: Record 9
+      abbreviation: abv
+  '2265':
+    '0':
+      name: Record 10
+      abbreviation: abv
+  '2266':
+    '0':
+      name: Record 11
+      abbreviation: abv
+  '2267':
+    '0':
+      name: Record 12
+      abbreviation: abv
+enchants:
+  PROTECTION_ENVIRONMENTAL:
+    name: Protection
+    abbreviation: abv
+  PROTECTION_FIRE:
+    name: Fire Protection
+    abbreviation: abv
+  PROTECTION_FALL:
+    name: Feather Falling
+    abbreviation: abv
+  PROTECTION_EXPLOSIONS:
+    name: Blast Protection
+    abbreviation: abv
+  PROTECTION_PROJECTILE:
+    name: Projectile Protection
+    abbreviation: abv
+  OXYGEN:
+    name: Respiration
+    abbreviation: abv
+  WATER_WORKER:
+    name: Aqua Affinity
+    abbreviation: abv
+  THORNS:
+    name: Thorns
+    abbreviation: abv
+  DAMAGE_ALL:
+    name: Sharpness
+    abbreviation: abv
+  DAMAGE_UNDEAD:
+    name: Smite
+    abbreviation: abv
+  DAMAGE_ARTHROPODS:
+    name: Bane of Arthropods
+    abbreviation: abv
+  KNOCKBACK:
+    name: Knockback
+    abbreviation: abv
+  FIRE_ASPECT:
+    name: Fire Aspect
+    abbreviation: abv
+  LOOT_BONUS_MOBS:
+    name: Looting
+    abbreviation: abv
+  DIG_SPEED:
+    name: Effeciency
+    abbreviation: abv
+  SILK_TOUCH:
+    name: Silk Touch
+    abbreviation: abv
+  DURABILITY:
+    name: Unbreaking
+    abbreviation: abv
+  LOOT_BONUS_BLOCKS:
+    name: Fortune
+    abbreviation: abv
+  ARROW_DAMAGE:
+    name: Power
+    abbreviation: abv
+  ARROW_KNOCKBACK:
+    name: Punch
+    abbreviation: abv
+  ARROW_FIRE:
+    name: Flame
+    abbreviation: abv
+  ARROW_INFINITE:
+    name: Infinity
+    abbreviation: abv

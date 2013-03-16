@@ -1,0 +1,6 @@
+name: WookieeItemNames
+main: uk.co.chieloos.wookieeitemnames.WookieeItemNames
+version: 0.1
+authors: [chieloos]
+website: http://chieloos.co.uk/wookieetrader
+description: Item name library.
