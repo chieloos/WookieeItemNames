@@ -709,6 +709,70 @@ items:
     '0':
       name: Anvil
       abbreviation: abv
+  '146':
+    '0':
+      name: Trapped Chest
+      abbreviation: abv
+  '147':
+    '0':
+      name: Gold Weighted Pressure Plate
+      abbreviation: abv
+  '148':
+    '0':
+      name: Iron Weighted Pressure Plate
+      abbreviation: abv
+  '149':
+    '0':
+      name: Redstone Comparator
+      abbreviation: abv
+  '150':
+    '0':
+      name: Redstone Comparator
+      abbreviation: abv
+  '151':
+    '0':
+      name: Daylight Sensor
+      abbreviation: abv
+  '152':
+    '0':
+      name: Block of Redstone
+      abbreviation: abv
+  '153':
+    '0':
+      name: Nether Quartz Ore
+      abbreviation: abv
+  '154':
+    '0':
+      name: Hopper
+      abbreviation: abv
+  '155':
+    '0':
+      name: Block of Quartz
+      abbreviation: abv
+    '1':
+      name: Chiseled Quartz Block
+      abbreviation: abv
+    '2':
+      name: Pillar Quartz Block (vertical)
+      abbreviation: abv
+    '3':
+      name: Pillar Quartz Block (north-south)
+      abbreviation: abv
+    '4':
+      name: Pillar Quartz Block (east-west)
+      abbreviation: abv
+  '156':
+    '0':
+      name: Quartz Stairs
+      abbreviation: abv
+  '157':
+    '0':
+      name: Activator Rail
+      abbreviation: abv
+  '158':
+    '0':
+      name: Dropper
+      abbreviation: abv
   '256':
     '0':
       name: Iron Spade
@@ -1556,53 +1620,73 @@ items:
     '0':
       name: Enchanted Book
       abbreviation: abv
+  '404':
+    '0':
+      name: Redstone Comparator
+      abbreviation: abv
+  '405':
+    '0':
+      name: Nether Brick
+      abbreviation: abv
+  '406':
+    '0':
+      name: Nether Quartz
+      abbreviation: abv
+  '407':
+    '0':
+      name: Minecart with TNT
+      abbreviation: abv
+  '408':
+    '0':
+      name: Minecart with Hopper
+      abbreviation: abv
   '2256':
     '0':
-      name: Gold Record
+      name: 13 Disc
       abbreviation: abv
   '2257':
     '0':
-      name: Green Record
+      name: Cat Disc
       abbreviation: abv
   '2258':
     '0':
-      name: Record 3
+      name: blocks Disc
       abbreviation: abv
   '2259':
     '0':
-      name: Record 4
+      name: chirp Disc
       abbreviation: abv
   '2260':
     '0':
-      name: Record 5
+      name: far Disc
       abbreviation: abv
   '2261':
     '0':
-      name: Record 6
+      name: mall Disc
       abbreviation: abv
   '2262':
     '0':
-      name: Record 7
+      name: mellohi Disc
       abbreviation: abv
   '2263':
     '0':
-      name: Record 8
+      name: stal Disc
       abbreviation: abv
   '2264':
     '0':
-      name: Record 9
+      name: strad Disc
       abbreviation: abv
   '2265':
     '0':
-      name: Record 10
+      name: ward Disc
       abbreviation: abv
   '2266':
     '0':
-      name: Record 11
+      name: 11 Disc
       abbreviation: abv
   '2267':
     '0':
-      name: Record 12
+      name: wait Disc
       abbreviation: abv
 enchants:
   PROTECTION_ENVIRONMENTAL:

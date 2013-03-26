@@ -8,21 +8,14 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public final class WookieeItemNames extends JavaPlugin {
 
-    protected final WookieeItemNamesConfig wcfg = new WookieeItemNamesConfig(this);
-    
-    protected PluginManager manager;
-    protected PluginDescriptionFile pdf;
-    protected ItemNames win;
-    
+    private PluginManager manager;
+    private PluginDescriptionFile pdf;
+    private ItemNames win;
 
     @Override
     public void onEnable() {
+        loadConfig();
         win = new ItemNames(getLogger());
-        File file = new File(getDataFolder() + File.separator + "config.yml");
-        if (!file.exists()) {
-            getConfig().options().copyDefaults(true);
-            saveConfig();
-        } 
         pdf = this.getDescription();
         getLogger().log(Level.INFO, "Enabled {0} v{1}", new Object[]{pdf.getName(), pdf.getVersion()});
         manager = this.getServer().getPluginManager();
@@ -31,5 +24,13 @@ public final class WookieeItemNames extends JavaPlugin {
     @Override
     public void onDisable() {
         getLogger().log(Level.INFO, "Disabled {0} v{1}", new Object[]{pdf.getName(), pdf.getVersion()});
+    }
+
+    private void loadConfig() {
+        File file = new File(getDataFolder() + File.separator + "config.yml");
+        if (!file.exists()) {
+            getConfig().options().copyDefaults(true);
+            saveConfig();
+        }
     }
 }

@@ -1,8 +1,6 @@
 package uk.co.chieloos.wookieeitemnames;
 
 import java.io.File;
-import java.io.IOException;
-import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.bukkit.Material;
 import org.bukkit.configuration.file.FileConfiguration;
@@ -18,10 +16,22 @@ public final class ItemNames {
     public ItemNames(Logger logger) {
         cfg = getINConfig();
         this.logger = logger;
-        if(logger == null){
+        if (logger == null) {
             logger.info("sdf");
         }
     }
+
+    /**
+     * Returns an item String based on WookieeItemNames config.yml
+     * <p> 
+     * If an itemname:datavalue is not found it will return null, otherwise
+     * the String paired with the WookieeItemNames config.yml
+     * @param itemname a bukkit itemname usually given as ITEM_NAME
+     * @param dataval the data value for an item, 0 if an itemname doesn't 
+     * have a data value
+     * @return a string associated with the itemname data value pair or null 
+     * if not found
+     */
     public String getItemName(String itemname, int dataval) {
         Material itemmat = Material.getMaterial(itemname);
         if (itemmat != null) {
@@ -33,6 +43,17 @@ public final class ItemNames {
         }
         return null;
     }
+    /**
+     * Returns an item String based on WookieeItemNames config.yml
+     * <p> 
+     * If an itemid:datavalue is not found it will return null, otherwise
+     * the String paired with the WookieeItemNames config.yml
+     * @param itemid an item id
+     * @param dataval the data value for an item, 0 if an itemname doesn't 
+     * have a data value
+     * @return a string associated with the itemid data value pair or null 
+     * if not found
+     */
     public String getItemName(int itemid, int dataval) {
         String name;
         name = cfg.getString("items." + itemid + "." + dataval + ".name");
@@ -49,6 +70,15 @@ public final class ItemNames {
             return name;
         }
     }
+    /**
+     * Returns an Enchant String based on WookieeItemNames config.yml
+     * <p> 
+     * If an enchant is not found it will return null, otherwise
+     * the String paired with the WookieeItemNames config.yml
+     * @param enchant an enchant usually given as ENCHANT_NAME
+     * @return a String associated with the enchant or null 
+     * if not found
+     */
     public String getEnchantName(String enchant) {
         String name;
         name = cfg.getString("enchants." + enchant + ".name");
@@ -59,26 +89,27 @@ public final class ItemNames {
             return name;
         }
     }
+    /**
+     * Reloads the item / enchant config file
+     * <p> 
+     * Should be used after an edit to the config while server is running
+     */
     public void reloadINConfig() {
         if (INConfigFile == null) {
             INConfigFile = new File("plugins/WookieeItemNames", "config.yml");
         }
         INConfig = YamlConfiguration.loadConfiguration(INConfigFile);
     }
+    /**
+     * Returns the FileConfiguration for config.yml
+     * <p> 
+     * Used to edit the config.yml
+     * @return FileConfiguration for this plugin
+     */
     public FileConfiguration getINConfig() {
         if (INConfig == null) {
             this.reloadINConfig();
         }
         return INConfig;
-    }
-    public void saveINConfig() {
-        if (INConfig == null || INConfigFile == null) {
-            return;
-        }
-        try {
-            getINConfig().save(INConfigFile);
-        } catch (IOException ex) {
-            logger.log(Level.SEVERE, "Could not save config to " + INConfigFile, ex);
-        }
     }
 }
