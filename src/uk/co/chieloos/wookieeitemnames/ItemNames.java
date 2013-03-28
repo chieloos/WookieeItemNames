@@ -80,7 +80,7 @@ public final class ItemNames {
      * @return a String associated with the enchant or null 
      * if not found
      */
-    public String getEnchantNameFromString(String enchantment) {
+    public String getEnchantName(String enchantment) {
         String name;
         name = cfg.getString("enchants." + enchantment + ".name");
         if (name == null) {
@@ -99,7 +99,7 @@ public final class ItemNames {
      * @param enchantment an Enchantment object
      * @return a String associated with the enchant or null if not found
      */
-    public String getEnchantNameFromEnchantment(Enchantment enchantment) {
+    public String getEnchantName(Enchantment enchantment) {
         String name;
         String enchant = enchantment.getName();
         name = cfg.getString("enchants." + enchant + ".name");
