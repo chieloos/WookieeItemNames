@@ -5,6 +5,7 @@ import java.util.logging.Logger;
 import org.bukkit.Material;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
+import org.bukkit.enchantments.Enchantment;
 
 public final class ItemNames {
 
@@ -51,8 +52,8 @@ public final class ItemNames {
      * @param itemid an item id
      * @param dataval the data value for an item, 0 if an itemname doesn't 
      * have a data value
-     * @return a string associated with the itemid data value pair or null 
-     * if not found
+     * @return a string associated with the itemid data value pair or if 
+     * not found, attempt to return Material.name(), else null
      */
     public String getItemName(int itemid, int dataval) {
         String name;
@@ -75,12 +76,32 @@ public final class ItemNames {
      * <p> 
      * If an enchant is not found it will return null, otherwise
      * the String paired with the WookieeItemNames config.yml
-     * @param enchant an enchant usually given as ENCHANT_NAME
+     * @param enchantment the name given from Enchantment.getName()
      * @return a String associated with the enchant or null 
      * if not found
      */
-    public String getEnchantName(String enchant) {
+    public String getEnchantNameFromString(String enchantment) {
         String name;
+        name = cfg.getString("enchants." + enchantment + ".name");
+        if (name == null) {
+            return null;
+        } else {
+            //logger.info("Found");
+            return name;
+        }
+    }
+    
+    /**
+     * Returns an Enchant String based on WookieeItemNames config.yml
+     * <p> 
+     * If an enchant is not found it will return null, otherwise
+     * the String paired with the WookieeItemNames config.yml
+     * @param enchantment an Enchantment object
+     * @return a String associated with the enchant or null if not found
+     */
+    public String getEnchantNameFromEnchantment(Enchantment enchantment) {
+        String name;
+        String enchant = enchantment.getName();
         name = cfg.getString("enchants." + enchant + ".name");
         if (name == null) {
             return null;
