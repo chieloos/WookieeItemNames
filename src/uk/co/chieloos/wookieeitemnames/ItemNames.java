@@ -6,6 +6,7 @@ import org.bukkit.Material;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.enchantments.Enchantment;
+import org.bukkit.inventory.ItemStack;
 
 public final class ItemNames {
 
@@ -23,15 +24,35 @@ public final class ItemNames {
     }
 
     /**
-     * Returns an item String based on WookieeItemNames config.yml
-     * <p> 
-     * If an itemname:datavalue is not found it will return null, otherwise
-     * the String paired with the WookieeItemNames config.yml
+     * Returns an item String based on WookieeItemNames config.yml <p> If an
+     * itemname:datavalue is not found it will return null, otherwise the String
+     * paired with the WookieeItemNames config.yml
+     *
+     * @param material a bukkit Material object
+     * @param dataval the data value for an item, 0 if an itemname doesn't have
+     * a data value
+     * @return a string associated with the Material data value pair or null if
+     * not found
+     */
+    public String getItemName(Material material, int dataval) {
+        String name = getItemName(material.getId(), dataval);
+        if (name != null) {
+            //logger.info("Found");
+            return name;
+        }
+        return null;
+    }
+
+    /**
+     * Returns an item String based on WookieeItemNames config.yml <p> If an
+     * itemname:datavalue is not found it will return null, otherwise the String
+     * paired with the WookieeItemNames config.yml
+     *
      * @param itemname a bukkit itemname usually given as ITEM_NAME
-     * @param dataval the data value for an item, 0 if an itemname doesn't 
-     * have a data value
-     * @return a string associated with the itemname data value pair or null 
-     * if not found
+     * @param dataval the data value for an item, 0 if an itemname doesn't have
+     * a data value
+     * @return a string associated with the itemname data value pair or null if
+     * not found
      */
     public String getItemName(String itemname, int dataval) {
         Material itemmat = Material.getMaterial(itemname);
@@ -44,16 +65,17 @@ public final class ItemNames {
         }
         return null;
     }
+
     /**
-     * Returns an item String based on WookieeItemNames config.yml
-     * <p> 
-     * If an itemid:datavalue is not found it will return null, otherwise
-     * the String paired with the WookieeItemNames config.yml
+     * Returns an item String based on WookieeItemNames config.yml <p> If an
+     * itemid:datavalue is not found it will return null, otherwise the String
+     * paired with the WookieeItemNames config.yml
+     *
      * @param itemid an item id
-     * @param dataval the data value for an item, 0 if an itemname doesn't 
-     * have a data value
-     * @return a string associated with the itemid data value pair or if 
-     * not found, attempt to return Material.name(), else null
+     * @param dataval the data value for an item, 0 if an itemname doesn't have
+     * a data value
+     * @return a string associated with the itemid data value pair or if not
+     * found, attempt to return Material.name(), else null
      */
     public String getItemName(int itemid, int dataval) {
         String name;
@@ -71,14 +93,14 @@ public final class ItemNames {
             return name;
         }
     }
+
     /**
-     * Returns an Enchant String based on WookieeItemNames config.yml
-     * <p> 
-     * If an enchant is not found it will return null, otherwise
-     * the String paired with the WookieeItemNames config.yml
+     * Returns an Enchant String based on WookieeItemNames config.yml <p> If an
+     * enchant is not found it will return null, otherwise the String paired
+     * with the WookieeItemNames config.yml
+     *
      * @param enchantment the name given from Enchantment.getName()
-     * @return a String associated with the enchant or null 
-     * if not found
+     * @return a String associated with the enchant or null if not found
      */
     public String getEnchantName(String enchantment) {
         String name;
@@ -90,14 +112,14 @@ public final class ItemNames {
             return name;
         }
     }
-    
+
     /**
-     * Returns an Enchant String based on WookieeItemNames config.yml
-     * <p> 
-     * If an enchant is not found it will return null, otherwise
-     * the String paired with the WookieeItemNames config.yml
-     * @param enchantment an Enchantment object
-     * @return a String associated with the enchant or null if not found
+     * Returns an Enchant String based on WookieeItemNames config.yml <p> If an
+     * enchant is not found it will return null, otherwise the String paired
+     * with the WookieeItemNames config.yml
+     *
+     * @param enchantment an bukkit Enchantment object
+     * @return a String associated with the Enchantment object or null if not found
      */
     public String getEnchantName(Enchantment enchantment) {
         String name;
@@ -110,10 +132,10 @@ public final class ItemNames {
             return name;
         }
     }
+
     /**
-     * Reloads the item / enchant config file
-     * <p> 
-     * Should be used after an edit to the config while server is running
+     * Reloads the item / enchant config file <p> Should be used after an edit
+     * to the config while server is running
      */
     public void reloadINConfig() {
         if (INConfigFile == null) {
@@ -121,10 +143,11 @@ public final class ItemNames {
         }
         INConfig = YamlConfiguration.loadConfiguration(INConfigFile);
     }
+
     /**
-     * Returns the FileConfiguration for config.yml
-     * <p> 
-     * Used to edit the config.yml
+     * Returns the FileConfiguration for config.yml <p> Used to edit the
+     * config.yml
+     *
      * @return FileConfiguration for this plugin
      */
     public FileConfiguration getINConfig() {
