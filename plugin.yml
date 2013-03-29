@@ -1,6 +1,6 @@
 name: WookieeItemNames
 main: uk.co.chieloos.wookieeitemnames.WookieeItemNames
-version: 0.2
+version: 0.3
 authors: [chieloos]
-website: http://chieloos.co.uk/wookieetrader
+website: http://dev.bukkit.org/server-mods/wookieeitemnames/
 description: Item name library.

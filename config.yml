@@ -3,1755 +3,2210 @@ items:
   '1':
     '0':
       name: Stone
+      plural: Stone
       abbreviation: abv
   '2':
     '0':
       name: Grass
+      plural: Grasses
       abbreviation: abv
   '3':
     '0':
       name: Dirt
+      plural: Dirt
       abbreviation: abv
   '4':
     '0':
       name: Cobblestone
+      plural: Cobblestone
       abbreviation: abv
   '5':
     '0':
       name: Plank
+      plural: Planks
       abbreviation: abv
   '6':
     '0':
       name: Oak Sapling
+      plural: Oak Saplings
       abbreviation: abv
     '1':
       name: Spruce Sapling
+      plural: Spruce Saplings
       abbreviation: abv
     '2':
       name: Birch Sapling
+      plural: Birch Saplings
       abbreviation: abv
     '3':
       name: Jungle Sapling
+      plural: Jungle Saplings
       abbreviation: abv
   '7':
     '0':
       name: Bedrock
+      plural: Bedrock
       abbreviation: abv
   '8':
     '0':
       name: Water
+      plural: Water
       abbreviation: abv
   '9':
     '0':
       name: Stationary Water
+      plural: Stationary Water
       abbreviation: abv
   '10':
     '0':
       name: Lava
+      plural: Lava
       abbreviation: abv
   '11':
     '0':
       name: Stationary Lava
+      plural: Stationary Lava
       abbreviation: abv
   '12':
     '0':
       name: Sand
+      plural: Sand
       abbreviation: abv
   '13':
     '0':
       name: Gravel
+      plural: Gravel
       abbreviation: abv
   '14':
     '0':
       name: Gold Ore
+      plural: Gold Ores
       abbreviation: abv
   '15':
     '0':
       name: Iron Ore
+      plural: Iron Ores
       abbreviation: abv
   '16':
     '0':
       name: Coal Ore
+      plural: Coal Ores
       abbreviation: abv
   '17':
     '0':
       name: Oak Wood
+      plural: Oak Wood
       abbreviation: abv
     '1':
       name: Spruce Wood
+      plural: Spruce Wood
       abbreviation: abv
     '2':
       name: Birch Wood
+      plural: Birch Wood
       abbreviation: abv
     '3':
       name: Jungle Wood
+      plural: Jungle Wood
       abbreviation: abv
   '18':
     '0':
       name: Oak Leaves
+      plural: Oak Leaves
       abbreviation: abv
     '1':
       name: Spruce Leaves
+      plural: Spruce Leaves
       abbreviation: abv
     '2':
       name: Birch Leaves
+      plural: Birch Leaves
       abbreviation: abv
     '3':
       name: Jungle Leaves
+      plural: Jungle Leaves
       abbreviation: abv
   '19':
     '0':
       name: Sponge
+      plural: Sponges
       abbreviation: abv
   '20':
     '0':
       name: Glass
+      plural: Glasses
       abbreviation: abv
   '21':
     '0':
       name: Lapis Ore
+      plural: Lapis Ores
       abbreviation: abv
   '22':
     '0':
       name: Lapis Block
+      plural: Lapis Blocks
       abbreviation: abv
   '23':
     '0':
       name: Dispenser
+      plural: Dispensers
       abbreviation: abv
   '24':
     '0':
       name: Sandstone
+      plural: Sandstone
       abbreviation: abv
     '1':
       name: Chiseled Sandstone
+      plural: Chiseled Sandstone
       abbreviation: abv
     '2':
       name: Smooth Sandstone
+      plural: Smooth Sandstone
       abbreviation: abv
   '25':
     '0':
       name: Note Block
+      plural: Note Blocks
       abbreviation: abv
   '26':
     '0':
       name: Bed Block
+      plural: Bed Blocks
       abbreviation: abv
   '27':
     '0':
-      abbreviation: abv
       name: Powered Rail
+      plural: Powered Rails
+      abbreviation: abv
   '28':
     '0':
       name: Detector Rail
+      plural: Detector Rails
       abbreviation: abv
   '29':
     '0':
       name: Piston Sticky Base
+      plural: Piston Sticky Bases
       abbreviation: abv
   '30':
     '0':
       name: Web
+      plural: Webs
       abbreviation: abv
   '31':
     '0':
       name: Shrub
+      plural: Shrubs
       abbreviation: abv
     '0':
       name: Long Grass
+      plural: Long Grasses
       abbreviation: abv
     '0':
       name: Fern
+      plural: Ferns
       abbreviation: abv
   '32':
     '0':
       name: Dead Bush
+      plural: Dead Bushes
       abbreviation: abv
   '33':
     '0':
       name: Piston Base
+      plural: Piston Bases
       abbreviation: abv
   '34':
     '0':
       name: Piston Extension
+      plural: Piston Extensions
       abbreviation: abv
   '35':
     '0':
       name: White Wool
+      plural: White Wool
       abbreviation: abv
     '1':
       name: Orange Wool
+      plural: Orange Wool
       abbreviation: abv
     '2':
       name: Magenta Wool
+      plural: Magenta Wool
       abbreviation: abv
     '3':
       name: Light Blue Wool
+      plural: Light Blue Wool
       abbreviation: abv
     '4':
       name: Yellow Wool
+      plural: Yellow Wool
       abbreviation: abv
     '5':
       name: Lime Wool
+      plural: Lime Wool
       abbreviation: abv
     '6':
       name: Pink Wool
+      plural: Pink Wool
       abbreviation: abv
     '7':
       name: Gray Wool
+      plural: Gray Wool
       abbreviation: abv
     '8':
       name: Light Gray Wool
+      plural: Light Gray Wool
       abbreviation: abv
     '9':
       name: Cyan Wool
+      plural: Cyan Wool
       abbreviation: abv
     '10':
       name: Purple Wool
+      plural: Purple Wool
       abbreviation: abv
     '11':
       name: Blue Wool
+      plural: Blue Wool
       abbreviation: abv
     '12':
       name: Brown Wool
+      plural: Brown Wool
       abbreviation: abv
     '13':
       name: Green Wool
+      plural: Green Wool
       abbreviation: abv
     '14':
       name: Red Wool
+      plural: Red Wool
       abbreviation: abv
     '15':
       name: Black Wool
+      plural: Black Wool
       abbreviation: abv
   '36':
     '0':
       name: Piston Moving Piece
+      plural: Piston Moving Pieces
       abbreviation: abv
   '37':
     '0':
       name: Yellow Flower
+      plural: Yellow Flowers
       abbreviation: abv
   '38':
     '0':
       name: Red Rose
+      plural: Red Roses
       abbreviation: abv
   '39':
     '0':
       name: Brown Mushroom
+      plural: Brown Mushrooms
       abbreviation: abv
   '40':
     '0':
       name: Red Mushroom
+      plural: Red Mushrooms
       abbreviation: abv
   '41':
     '0':
       name: Gold Block
+      plural: Gold Blocks
       abbreviation: abv
   '42':
     '0':
       name: Iron Block
+      plural: Iron Blocks
       abbreviation: abv
   '43':
     '0':
       name: Double Step
+      plural: Double Steps
       abbreviation: abv
   '44':
     '0':
       name: Stone Slab
+      plural: Stone Slabs
       abbreviation: abv
     '1':
       name: Sandstone Slab
+      plural: Sandstone Slabs
       abbreviation: abv
     '2':
       name: Wooden Slab
+      plural: Wooden Slabs
       abbreviation: abv
     '3':
       name: Cobblestone slab
+      plural: Cobblestone slabs
       abbreviation: abv
     '4':
       name: Brick Slab
+      plural: Brick Slabs
       abbreviation: abv
     '5':
       name: Stone Brick Slab
+      plural: Stone Brick Slabs
       abbreviation: abv
     '6':
       name: Nether Brick Slab
+      plural: Nether Brick Slabs
       abbreviation: abv
     '7':
       name: Quartz Slab
+      plural: Quartz Slabs
       abbreviation: abv
     '8':
       name: Smooth Stone Slab
+      plural: Smooth Stone Slabs
       abbreviation: abv
     '9':
       name: Smooth Sandstone Slab
+      plural: Smooth Sandstone Slabs
       abbreviation: abv
   '45':
     '0':
       name: Brick
+      plural: Bricks
       abbreviation: abv
   '46':
     '0':
       name: TNT
+      plural: TNT
       abbreviation: abv
   '47':
     '0':
       name: Bookshelf
+      plural: Bookshelves
       abbreviation: abv
   '48':
     '0':
       name: Mossy Cobblestone
+      plural: Mossy Cobblestones
       abbreviation: abv
   '49':
     '0':
       name: Obsidian
+      plural: Obsidian
       abbreviation: abv
   '50':
     '0':
       name: Torch
+      plural: Torches
       abbreviation: abv
   '51':
     '0':
       name: Fire
+      plural: Fires
       abbreviation: abv
   '52':
     '0':
       name: Mob Spawner
+      plural: Mob Spawners
       abbreviation: abv
   '53':
     '0':
-      name: Wood Stairs
+      name: Oak Wood Stairs
+      plural: Oak Wood Stairs
       abbreviation: abv
   '54':
     '0':
       name: Chest
+      plural: Chests
       abbreviation: abv
   '55':
     '0':
       name: Redstone Wire
+      plural: Redstone Wires
       abbreviation: abv
   '56':
     '0':
       name: Diamond Ore
+      plural: Diamond Ores
       abbreviation: abv
   '57':
     '0':
       name: Diamond Block
+      plural: Diamond Blocks
       abbreviation: abv
   '58':
     '0':
       name: Workbench
-      abbreviation: abv
+      plural: Workbenches
+      
   '59':
     '0':
       name: Crops
+      plural: Crops
       abbreviation: abv
   '60':
     '0':
       name: Soil
+      plural: Soil
       abbreviation: abv
   '61':
     '0':
       name: Furnace
+      plural: Furnaces
       abbreviation: abv
   '62':
     '0':
       name: Burning Furnace
+      plural: Burning Furnaces
       abbreviation: abv
   '63':
     '0':
       name: Sign Post
+      plural: Sign Posts
       abbreviation: abv
   '64':
     '0':
       name: Wooden Door
+      plural: Wooden Doors
       abbreviation: abv
   '65':
     '0':
       name: Ladder
+      plural: Ladders
       abbreviation: abv
   '66':
     '0':
-      name: Rails
+      name: Rail
+      plural: Rails
       abbreviation: abv
   '67':
     '0':
       name: Cobblestone Stairs
+      plural: Cobblestone Stairs
       abbreviation: abv
   '68':
     '0':
       name: Wall Sign
+      plural: Wall Signs
       abbreviation: abv
   '69':
     '0':
       name: Lever
+      plural: Levers
       abbreviation: abv
   '70':
     '0':
       name: Stone Plate
+      plural: Stone Plates
       abbreviation: abv
   '71':
     '0':
       name: Iron Door Block
+      plural: Iron Door Blocks
       abbreviation: abv
   '72':
     '0':
-      name: Wood Plate
+      name: Wooden Plate
+      plural: Wooden Plates
       abbreviation: abv
   '73':
     '0':
       name: Redstone Ore
+      plural: Redstone Ores
       abbreviation: abv
   '74':
     '0':
       name: Glowing Redstone Ore
+      plural: Glowing Redstone Ores
       abbreviation: abv
   '75':
     '0':
-      name: Redstone Torch Off
+      name: Redstone Torch (Off)
+      plural: Redstone Torches (Off)
       abbreviation: abv
   '76':
     '0':
-      name: Redstone Torch On
+      name: Redstone Torch
+      plural: Redstone Torches
       abbreviation: abv
   '77':
     '0':
       name: Stone Button
+      plural: Stone Buttons
       abbreviation: abv
   '78':
     '0':
       name: Snow
+      plural: Snow
       abbreviation: abv
   '79':
     '0':
       name: Ice
+      plural: Ice
       abbreviation: abv
   '80':
     '0':
       name: Snow Block
+      plural: Snow Blocks
       abbreviation: abv
   '81':
     '0':
       name: Cactus
+      plural: Cacti
       abbreviation: abv
   '82':
     '0':
       name: Clay
+      plural: Clay
       abbreviation: abv
   '83':
     '0':
-      name: Sugar cane block
+      name: Sugarcane Block
+      plural: Sugarcane Blocks
       abbreviation: abv
   '84':
     '0':
       name: Jukebox
+      plural: Jukeboxes
       abbreviation: abv
   '85':
     '0':
-      name: Fence
+      name: Wooden Fence
+      plural: Wooden Fences
       abbreviation: abv
   '86':
     '0':
       name: Pumpkin
+      plural: Pumpkins
       abbreviation: abv
   '87':
     '0':
       name: Netherrack
+      plural: Netherrack
       abbreviation: abv
   '88':
     '0':
       name: Soul Sand
+      plural: Soul Sand
       abbreviation: abv
   '89':
     '0':
       name: Glowstone
+      plural: Glowstone
       abbreviation: abv
   '90':
     '0':
       name: Portal
+      plural: Portals
       abbreviation: abv
   '91':
     '0':
       name: Jack O Lantern
+      plural: Jack O Lanterns
       abbreviation: abv
   '92':
     '0':
       name: Cake Block
+      plural: Cake Blocks
       abbreviation: abv
   '93':
     '0':
-      name: Diode Block Off
+      name: Redstone Repeater Block (Off)
+      plural: Redstone Repeater Blocks (Off)
       abbreviation: abv
   '94':
     '0':
-      name: Diode Block On
+      name: Redstone Repeater Block (On)
+      plural: Redstone Repeater Blocks (On)
       abbreviation: abv
   '95':
     '0':
       name: Locked Chest
+      plural: Locked Chests
       abbreviation: abv
   '96':
     '0':
-      name: Trap Door
+      name: Trapdoor
+      plural: Trapdoors
       abbreviation: abv
   '97':
     '0':
-      name: Monster Eggs
+      name: Monster Egg
+      plural: Monster Eggs
       abbreviation: abv
   '98':
     '0':
       name: Stone Brick
+      plural: Stone Bricks
       abbreviation: abv
     '1':
       name: Mossy Brick
+      plural: Mossy Bricks
       abbreviation: abv
     '2':
       name: Cracked Brick
+      plural: Cracked Bricks
       abbreviation: abv
     '3':
       name: Chiseled Brick
+      plural: Chiseled Bricks
       abbreviation: abv
   '99':
     '0':
-      name: Huge Mushroom 1
+      name: Huge Brown Mushroom
+      plural: Huge Brown Mushrooms
       abbreviation: abv
   '100':
     '0':
-      name: Huge Mushroom 2
+      name: Huge Red Mushroom
+      plural: Huge Red Mushrooms
       abbreviation: abv
   '101':
     '0':
-      name: Iron Fence
+      name: Iron Bars
+      plural: Iron Bars
       abbreviation: abv
   '102':
     '0':
-      name: Thin Glass
+      name: Glass Pane
+      plural: Glass Panes
       abbreviation: abv
   '103':
     '0':
       name: Melon Block
+      plural: Melon Blocks
       abbreviation: abv
   '104':
     '0':
       name: Pumpkin Stem
+      plural: Pumpkin Stems
       abbreviation: abv
   '105':
     '0':
       name: Melon Stem
+      plural: Melon Stems
       abbreviation: abv
   '106':
     '0':
       name: Vine
+      plural: Vines
       abbreviation: abv
   '107':
     '0':
-      name: Fence gate
+      name: Wooden Fence Gate
+      plural: Wooden Fence Gates
       abbreviation: abv
   '108':
     '0':
       name: Brick Stairs
+      plural: Brick Stairs
       abbreviation: abv
   '109':
     '0':
       name: Smooth Stairs
+      plural: Smooth Stairs
       abbreviation: abv
   '110':
     '0':
-      name: Mycel
+      name: Mycelium
+      plural: Mycelium
       abbreviation: abv
   '111':
     '0':
       name: Water Lily
+      plural: Water Lillies
       abbreviation: abv
   '112':
     '0':
-      name: Nether Brick
+      name: Nether Brick Block
+      plural: Nether Brick Blocks
       abbreviation: abv
   '113':
     '0':
-      name: Nether Fence
+      name: Nether Brick Fence
+      plural: Nether Brick Fences
       abbreviation: abv
   '114':
     '0':
       name: Nether Brick Stairs
+      plural: Nether Brick Stairs
       abbreviation: abv
   '115':
     '0':
-      name: Nether Warts
+      name: Nether Wart
+      plural: Nether Wart
       abbreviation: abv
   '116':
     '0':
       name: Enchantment Table
+      plural: Enchantment Tables
       abbreviation: abv
   '117':
     '0':
       name: Brewing Stand
+      plural: Brewing Stands
       abbreviation: abv
   '118':
     '0':
       name: Cauldron
+      plural: Cauldrons
       abbreviation: abv
   '119':
     '0':
-      name: Ender Portal
+      name: Ender Portal Block
+      plural: Ender Portal Blocks
       abbreviation: abv
   '120':
     '0':
       name: Ender Portal Frame
+      plural: Ender Portal Frame
       abbreviation: abv
   '121':
     '0':
       name: Ender Stone
+      plural: Ender Stones
       abbreviation: abv
   '122':
     '0':
       name: Dragon Egg
+      plural: Dragon Eggs
       abbreviation: abv
   '123':
     '0':
-      name: Redstone Lamp Off
+      name: Redstone Lamp (Off)
+      plural: Redstone Lamps (Off)
       abbreviation: abv
   '124':
     '0':
-      name: Redstone Lamp On
+      name: Redstone Lamp (On)
+      plural: Redstone Lamps (On)
       abbreviation: abv
   '125':
     '0':
-      name: Wood Double Step
+      name: Wooden Double Step
+      plural: Wooden Double Steps
       abbreviation: abv
   '126':
     '0':
       name: Oak Wood Step
+      plural: Oak Wood Steps
       abbreviation: abv
     '1':
       name: Spruce Wood Step
+      plural: Spruce Wood Steps
       abbreviation: abv
     '2':
       name: Birch Wood Step
+      plural: Birch Wood Steps
       abbreviation: abv
     '3':
       name: Jungle Wood Step
+      plural: Jungle Wood Steps
       abbreviation: abv
   '127':
     '0':
       name: Cocoa
+      plural: Cocoas
       abbreviation: abv
   '128':
     '0':
       name: Sandstone Stairs
+      plural: Sandstone Stairs
       abbreviation: abv
   '129':
     '0':
       name: Emerald Ore
+      plural: Emerald Ores
       abbreviation: abv
   '130':
     '0':
       name: Ender Chest
+      plural: Ender Chests
       abbreviation: abv
   '131':
     '0':
       name: Tripwire Hook
+      plural: Tripwire Hooks
       abbreviation: abv
   '132':
     '0':
       name: Tripwire
+      plural: Tripwires
       abbreviation: abv
   '133':
     '0':
       name: Emerald Block
+      plural: Emerald Blocks
       abbreviation: abv
   '134':
     '0':
       name: Spruce Wood Stairs
+      plural: Spruce Wood Stairs
       abbreviation: abv
   '135':
     '0':
       name: Birch Wood Stairs
+      plural: Birch Wood Stairs
       abbreviation: abv
   '136':
     '0':
       name: Jungle Wood Stairs
+      plural: Jungle Wood Stairs
       abbreviation: abv
   '137':
     '0':
-      name: Command
+      name: Command Block
+      plural: Command Blocks
       abbreviation: abv
   '138':
     '0':
-      name: Beacon
+      name: Beacon Block
+      plural: Beacon Blocks
       abbreviation: abv
   '139':
     '0':
-      name: Cobble Wall
+      name: Cobblestone Wall
+      plural: Cobblestone Walls
       abbreviation: abv
   '140':
     '0':
       name: Flower Pot
+      plural: Flower Pots
       abbreviation: abv
   '141':
     '0':
       name: Carrot
+      plural: Carrot
       abbreviation: abv
   '142':
     '0':
       name: Potato
+      plural: Potatoes
       abbreviation: abv
   '143':
     '0':
-      name: Wood Button
+      name: Wooden Button
+      plural: Wooden Buttons
       abbreviation: abv
   '144':
     '0':
       name: Skull
+      plural: Skulls
       abbreviation: abv
   '145':
     '0':
       name: Anvil
+      plural: Anvils
       abbreviation: abv
   '146':
     '0':
       name: Trapped Chest
+      plural: Trapped Chests
       abbreviation: abv
   '147':
     '0':
       name: Gold Weighted Pressure Plate
+      plural: Gold Weighted Pressure Plates
       abbreviation: abv
   '148':
     '0':
       name: Iron Weighted Pressure Plate
+      plural: Iron Weighted Pressure Plates
       abbreviation: abv
   '149':
     '0':
-      name: Redstone Comparator
+      name: Redstone Comparator (Off)
+      plural: Redstone Comparators (Off)
       abbreviation: abv
   '150':
     '0':
-      name: Redstone Comparator
+      name: Redstone Comparator (On)
+      plural: Redstone Comparators (On)
       abbreviation: abv
   '151':
     '0':
       name: Daylight Sensor
+      plural: Daylight Sensors
       abbreviation: abv
   '152':
     '0':
       name: Block of Redstone
+      plural: Blocks of Redstone
       abbreviation: abv
   '153':
     '0':
       name: Nether Quartz Ore
+      plural: Nether Quartz Ores
       abbreviation: abv
   '154':
     '0':
       name: Hopper
+      plural: Hoppers
       abbreviation: abv
   '155':
     '0':
       name: Block of Quartz
+      plural: Blocks of Quartz
       abbreviation: abv
     '1':
       name: Chiseled Quartz Block
+      plural: Chiseled Quartz Blocks
       abbreviation: abv
     '2':
       name: Pillar Quartz Block (vertical)
+      plural: Pillar Quartz Blocks (vertical)
       abbreviation: abv
     '3':
       name: Pillar Quartz Block (north-south)
+      plural: Pillar Quartz Blocks (north-south)
       abbreviation: abv
     '4':
       name: Pillar Quartz Block (east-west)
+      plural: Pillar Quartz Blocks (east-west)
       abbreviation: abv
   '156':
     '0':
       name: Quartz Stairs
+      plural: Quartz Stairs
       abbreviation: abv
   '157':
     '0':
       name: Activator Rail
+      plural: Activator Rails
       abbreviation: abv
   '158':
     '0':
       name: Dropper
+      plural: Droppers
       abbreviation: abv
   '256':
     '0':
       name: Iron Spade
+      plural: Iron Spades
       abbreviation: abv
   '257':
     '0':
       name: Iron Pickaxe
+      plural: Iron Pickaxes
       abbreviation: abv
   '258':
     '0':
       name: Iron Axe
+      plural: Iron Axes
       abbreviation: abv
   '259':
     '0':
       name: Flint And Steel
+      plural: Flint And Steel
       abbreviation: abv
   '260':
     '0':
       name: Apple
+      plural: Apples
       abbreviation: abv
   '261':
     '0':
       name: Bow
+      plural: Bows
       abbreviation: abv
   '262':
     '0':
       name: Arrow
+      plural: Arrows
       abbreviation: abv
   '263':
     '0':
       name: Coal
+      plural: Coal
       abbreviation: abv
   '264':
     '0':
       name: Diamond
+      plural: Diamonds
       abbreviation: abv
   '265':
     '0':
       name: Iron Ingot
+      plural: Iron Ingots
       abbreviation: abv
   '266':
     '0':
       name: Gold Ingot
+      plural: Gold Ingots
       abbreviation: abv
   '267':
     '0':
       name: Iron Sword
       abbreviation: abv
+      plural: Iron Swords
   '268':
     '0':
-      name: Wood Sword
+      name: Wooden Sword
+      plural: Wooden Swords
       abbreviation: abv
   '269':
     '0':
-      name: Wood Spade
+      name: Wooden Spade
+      plural: Wooden Spades
       abbreviation: abv
   '270':
     '0':
-      name: Wood Pickaxe
+      name: Wooden Pickaxe
+      plural: Wooden Pickaxes
       abbreviation: abv
   '271':
     '0':
-      name: Wood Axe
+      name: Wooden Axe
+      plural: Wooden Axes
       abbreviation: abv
   '272':
     '0':
       name: Stone Sword
+      plural: Stone Swords
       abbreviation: abv
   '273':
     '0':
       name: Stone Spade
+      plural: Stone Spades
       abbreviation: abv
   '274':
     '0':
       name: Stone Pickaxe
+      plural: Stone Pickaxes
       abbreviation: abv
   '275':
     '0':
       name: Stone Axe
+      plural: Stone Axes
       abbreviation: abv
   '276':
     '0':
       name: Diamond Sword
+      plural: Diamond Swords
       abbreviation: abv
   '277':
     '0':
       name: Diamond Spade
+      plural: Diamond Spades
       abbreviation: abv
   '278':
     '0':
       name: Diamond Pickaxe
+      plural: Diamond Pickaxes
       abbreviation: abv
   '279':
     '0':
       name: Diamond Axe
+      plural: Diamond Axes
       abbreviation: abv
   '280':
     '0':
       name: Stick
+      plural: Sticks
       abbreviation: abv
   '281':
     '0':
       name: Bowl
+      plural: Bowls
       abbreviation: abv
   '282':
     '0':
       name: Mushroom Soup
+      plural: Mushroom Soup
       abbreviation: abv
   '283':
     '0':
-      name: Gold Sword
+      name: Golden Sword
+      plural: Golden Swords
       abbreviation: abv
   '284':
     '0':
-      name: Gold Spade
+      name: Golden Spade
+      plural: Golden Spade
       abbreviation: abv
   '285':
     '0':
-      name: Gold Pickaxe
+      name: Golden Pickaxe
+      plural: Golden Pickaxe
       abbreviation: abv
   '286':
     '0':
-      name: Gold Axe
+      name: Golden Axe
+      plural: Golden Axe
       abbreviation: abv
   '287':
     '0':
       name: String
+      plural: Strings
       abbreviation: abv
   '288':
     '0':
       name: Feather
+      plural: Feathers
       abbreviation: abv
   '289':
     '0':
       name: Sulphur
+      plural: Sulphur
       abbreviation: abv
   '290':
     '0':
-      name: Wood Hoe
+      name: Wooden Hoe
+      plural: Wooden Hoes
       abbreviation: abv
   '291':
     '0':
       name: Stone Hoe
+      plural: Stone Hoes
       abbreviation: abv
   '292':
     '0':
       name: Iron Hoe
+      plural: Iron Hoes
       abbreviation: abv
   '293':
     '0':
       name: Diamond Hoe
+      plural: Diamond Hoes
       abbreviation: abv
   '294':
     '0':
-      name: Gold Hoe
+      name: Golden Hoe
+      plural: Golden Hoe
       abbreviation: abv
   '295':
     '0':
-      name: Seeds
+      name: Seed
+      plural: Seeds
       abbreviation: abv
   '296':
     '0':
       name: Wheat
+      plural: Wheat
       abbreviation: abv
   '297':
     '0':
       name: Bread
+      plural: Bread
       abbreviation: abv
   '298':
     '0':
-      name: Leather Helmet
+      name: Leather Cap
+      plural: Leather Caps
       abbreviation: abv
   '299':
     '0':
-      name: Leather Chestplate
+      name: Leather Tunic
+      plural: Leather Tunics
       abbreviation: abv
   '300':
     '0':
-      name: Leather Leggings
+      name: Leather Pants
+      plural: Leather Pants
       abbreviation: abv
   '301':
     '0':
       name: Leather Boots
+      plural: Leather Boots
       abbreviation: abv
   '302':
     '0':
       name: Chainmail Helmet
+      plural: Chainmail Helmets
       abbreviation: abv
   '303':
     '0':
       name: Chainmail Chestplate
+      plural: Chainmail Chestplates
       abbreviation: abv
   '304':
     '0':
       name: Chainmail Leggings
+      plural: Chainmail Leggings
       abbreviation: abv
   '305':
     '0':
       name: Chainmail Boots
+      plural: Chainmail Boots
       abbreviation: abv
   '306':
     '0':
       name: Iron Helmet
+      plural: Iron Helmets
       abbreviation: abv
   '307':
     '0':
       name: Iron Chestplate
+      plural: Iron Chestplates
       abbreviation: abv
   '308':
     '0':
       name: Iron Leggings
+      plural: Iron Leggings
       abbreviation: abv
   '309':
     '0':
       name: Iron Boots
+      plural: Iron Boots
       abbreviation: abv
   '310':
     '0':
       name: Diamond Helmet
+      plural: Diamond Helmets
       abbreviation: abv
   '311':
     '0':
       name: Diamond Chestplate
+      plural: Diamond Chestplates
       abbreviation: abv
   '312':
     '0':
       name: Diamond Leggings
+      plural: Diamond Leggings
       abbreviation: abv
   '313':
     '0':
       name: Diamond Boots
+      plural: Diamond Boots
       abbreviation: abv
   '314':
     '0':
-      name: Gold Helmet
+      name: Golden Helmet
+      plural: Golden Helmets
       abbreviation: abv
   '315':
     '0':
-      name: Gold Chestplate
+      name: Golden Chestplate
+      plural: Golden Chestplates
       abbreviation: abv
   '316':
     '0':
-      name: Gold Leggings
+      name: Golden Leggings
+      plural: Golden Leggings
       abbreviation: abv
   '317':
     '0':
-      name: Gold Boots
+      name: Golden Boots
+      plural: Golden Boots
       abbreviation: abv
   '318':
     '0':
       name: Flint
+      plural: Flint
       abbreviation: abv
   '319':
     '0':
       name: Pork
+      plural: Pork
       abbreviation: abv
   '320':
     '0':
       name: Grilled Pork
+      plural: Grilled Pork
       abbreviation: abv
   '321':
     '0':
       name: Painting
+      plural: Paintings
       abbreviation: abv
   '322':
     '0':
       name: Golden Apple
+      plural: Golden Apples
       abbreviation: abv
   '323':
     '0':
       name: Sign
+      plural: Signs
       abbreviation: abv
   '324':
     '0':
-      name: Wood Door
+      name: Wooden Door
+      plural: Wooden Doors
       abbreviation: abv
   '325':
     '0':
       name: Bucket
+      plural: Buckets
       abbreviation: abv
   '326':
     '0':
       name: Water Bucket
+      plural: Water Buckets
       abbreviation: abv
   '327':
     '0':
       name: Lava Bucket
+      plural: Lava Buckets
       abbreviation: abv
   '328':
     '0':
       name: Minecart
+      plural: Minecarts
       abbreviation: abv
   '329':
     '0':
       name: Saddle
+      plural: Saddles
       abbreviation: abv
   '330':
     '0':
       name: Iron Door
+      plural: Iron Doors
       abbreviation: abv
   '331':
     '0':
       name: Redstone
+      plural: Redstone
       abbreviation: abv
   '332':
     '0':
       name: Snow Ball
+      plural: Snow Balls
       abbreviation: abv
   '333':
     '0':
       name: Boat
+      plural: Boats
       abbreviation: abv
   '334':
     '0':
       name: Leather
+      plural: Leather
       abbreviation: abv
   '335':
     '0':
       name: Milk Bucket
+      plural: Milk Buckets
       abbreviation: abv
   '336':
     '0':
       name: Clay Brick
+      plural: Clay Bricks
       abbreviation: abv
   '337':
     '0':
       name: Clay Ball
+      plural: Clay Balls
       abbreviation: abv
   '338':
     '0':
-      name: Sugar Cane
+      name: Sugarcane
+      plural: Sugarcane
       abbreviation: abv
   '339':
     '0':
       name: Paper
+      plural: Papers
       abbreviation: abv
   '340':
     '0':
       name: Book
+      plural: Books
       abbreviation: abv
   '341':
     '0':
       name: Slime Ball
+      plural: Slime Balls
       abbreviation: abv
   '342':
     '0':
       name: Storage Minecart
+      plural: Storage Minecarts
       abbreviation: abv
   '343':
     '0':
       name: Powered Minecart
+      plural: Powered Minecarts
       abbreviation: abv
   '344':
     '0':
       name: Egg
+      plural: Eggs
       abbreviation: abv
   '345':
     '0':
       name: Compass
+      plural: Compasses
       abbreviation: abv
   '346':
     '0':
       name: Fishing Rod
+      plural: Fishing Rods
       abbreviation: abv
   '347':
     '0':
       name: Watch
+      plural: Watches
       abbreviation: abv
   '348':
     '0':
       name: Glowstone Dust
+      plural: Glowstone Dust
       abbreviation: abv
   '349':
     '0':
       name: Raw Fish
+      plural: Raw Fishes
       abbreviation: abv
   '350':
     '0':
       name: Cooked Fish
+      plural: Cooked Fishes
       abbreviation: abv
   '351':
     '0':
       name: Ink Sac
+      plural: Ink Sacs
       abbreviation: abv
     '1':
       name: Rose Red
+      plural: Rose Red
       abbreviation: abv
     '2':
       name: Cactus Green
+      plural: Cactus Green
       abbreviation: abv
     '3':
-      name: Cocoa Beans
+      name: Cocoa Bean
+      plural: Cocoa Beans
       abbreviation: abv
     '4':
       name: Lapis Lazuli
+      plural: Lapis Lazuli
       abbreviation: abv
     '5':
       name: Purple Dye
+      plural: Purple Dyes
       abbreviation: abv
     '6':
       name: Cyan Dye
+      plural: Cyan Dyes
       abbreviation: abv
     '7':
       name: Light Gray Dye
+      plural: Light Gray Dyes
       abbreviation: abv
     '8':
       name: Gray Dye
+      plural: Gray Dyes
       abbreviation: abv
     '9':
       name: Pink Dye
+      plural: Pink Dyes
       abbreviation: abv
     '10':
       name: Lime Dye
+      plural: Lime Dyes
       abbreviation: abv
     '11':
       name: Dandelion Yellow
+      plural: Dandelion Yellow
       abbreviation: abv
     '12':
       name: Light Blue Dye
+      plural: Light Blue Dyes
       abbreviation: abv
     '13':
       name: Magenta Dye
+      plural: Magenta Dyes
       abbreviation: abv
     '14':
       name: Orange Dye
+      plural: Orange Dyes
       abbreviation: abv
     '15':
       name: Bone Meal
+      plural: Bone Meal
       abbreviation: abv
   '352':
     '0':
       name: Bone
+      plural: Bones
       abbreviation: abv
   '353':
     '0':
       name: Sugar
+      plural: Sugar
       abbreviation: abv
   '354':
     '0':
       name: Cake
+      plural: Cakes
       abbreviation: abv
   '355':
     '0':
       name: Bed
+      plural: Beds
       abbreviation: abv
   '356':
     '0':
-      name: Diode
+      name: Redstone Repeater
+      plural: Redstone Repeaters
       abbreviation: abv
   '357':
     '0':
       name: Cookie
+      plural: Cookies
       abbreviation: abv
   '358':
     '0':
       name: Map
+      plural: Maps
       abbreviation: abv
   '359':
     '0':
       name: Shears
+      plural: Shears
       abbreviation: abv
   '360':
     '0':
       name: Melon
+      plural: Melons
       abbreviation: abv
   '361':
     '0':
-      name: Pumpkin seeds
+      name: Pumpkin seed
+      plural: Pumpkin seeds
       abbreviation: abv
   '362':
     '0':
-      name: Melon Seeds
+      name: Melon Seed
+      plural: Melon Seed
       abbreviation: abv
   '363':
     '0':
       name: Raw Beef
+      plural: Raw Beef
       abbreviation: abv
   '364':
     '0':
       name: Cooked Beef
+      plural: Cooked Beef
       abbreviation: abv
   '365':
     '0':
       name: Raw Chicken
+      plural: Raw Chickens
       abbreviation: abv
   '366':
     '0':
       name: Cooked Chicken
+      plural: Cooked Chickens
       abbreviation: abv
   '367':
     '0':
       name: Rotten Flesh
+      plural: Rotten Flesh
       abbreviation: abv
   '368':
     '0':
       name: Ender Pearl
+      plural: Ender Pearls
       abbreviation: abv
   '369':
     '0':
       name: Blaze Rod
+      plural: Blaze Rods
       abbreviation: abv
   '370':
     '0':
       name: Ghast Tear
+      plural: Ghast Tears
       abbreviation: abv
   '371':
     '0':
       name: Gold Nugget
+      plural: Gold Nuggets
       abbreviation: abv
   '372':
     '0':
-      name: Nether Stalk
+      name: Nether Wart
+      plural: Nether Wart
       abbreviation: abv
   '373':
     '0':
       name: Water Bottle
+      plural: Water Bottles
       abbreviation: abv
     '16':
       name: Awkward Potion
+      plural: Awkward Potions
       abbreviation: abv
     '32':
       name: Thick Potion
+      plural: Thick Potions
       abbreviation: abv
     '64':
       name: Mundane Potion(e)
+      plural: Mundane Potions(e)
       abbreviation: abv
     '8192':
       name: Mundane Potion
+      plural: Mundane Potions
       abbreviation: abv
     '8193':
       name: Potion of Regeneration
+      plural: Potions of Regeneration
       abbreviation: abv
     '8194':
       name: Potion of Swiftness
+      plural: Potions of Swiftness
       abbreviation: abv
     '8195':
       name: Potion of Fire Resistance
+      plural: Potions of Fire Resistance
       abbreviation: abv
     '8196':
       name: Potion of Poison
+      plural: Potions of Poison
       abbreviation: abv
     '8197':
       name: Potion of Instant Health
+      plural: Potions of Instant Health
       abbreviation: abv
     '8198':
       name: Potion of Night Vision
+      plural: Potions of Night Vision
       abbreviation: abv
     '8200':
       name: Potion of Weakness
+      plural: Potions of Weakness
       abbreviation: abv
     '8201':
       name: Potion of Stength
+      plural: Potions of Stength
       abbreviation: abv
     '8202':
       name: Potion of Slowness
+      plural: Potions of Slowness
       abbreviation: abv
     '8204':
       name: Potion of Harming
+      plural: Potions of Harming
       abbreviation: abv
     '8206':
       name: Potion of Invisibility
+      plural: Potions of Invisibility
       abbreviation: abv
     '8225':
       name: Potion of Regeneration II
+      plural: Potions of Regeneration II
       abbreviation: abv
     '8226':
       name: Potion of Swiftness II
+      plural: Potions of Swiftness II
       abbreviation: abv
     '8227':
       name: Potion of Fire Resistance
+      plural: Potions of Fire Resistance
       abbreviation: abv
     '8228':
       name: Potion of Poison II
+      plural: Potions of Poison II
       abbreviation: abv
     '8229':
       name: Potion of Instant Health II
+      plural: Potions of Instant Health II
       abbreviation: abv
     '8230':
       name: Potion of Night Vision
+      plural: Potions of Night Vision
       abbreviation: abv
     '8232':
       name: Potion of Weakness
+      plural: Potions of Weakness
       abbreviation: abv
     '8233':
       name: Potion of Stength II
+      plural: Potions of Stength II
       abbreviation: abv
     '8234':
       name: Potion of Slowness
+      plural: Potions of Slowness
       abbreviation: abv
     '8236':
       name: Potion of Harming II
+      plural: Potions of Harming II
       abbreviation: abv
     '8238':
       name: Potion of Invisibility
+      plural: Potions of Invisibility
       abbreviation: abv
     '8257':
       name: Potion of Regeneration(e)
+      plural: Potions of Regeneration(e)
       abbreviation: abv
     '8258':
       name: Potion of Swiftness(e)
+      plural: Potions of Swiftness(e)
       abbreviation: abv
     '8259':
       name: Potion of Fire Resistance(e)
+      plural: Potions of Fire Resistance(e)
       abbreviation: abv
     '8260':
       name: Potion of Poison(e)
+      plural: Potions of Poison(e)
       abbreviation: abv
     '8261':
       name: Potion of Instant Health
+      plural: Potions of Instant Health
       abbreviation: abv
     '8262':
       name: Potion of Night Vision(e)
+      plural: Potions of Night Vision(e)
       abbreviation: abv
     '8264':
       name: Potion of Weakness(e)
+      plural: Potions of Weakness(e)
       abbreviation: abv
     '8265':
       name: Potion of Stength(e)
+      plural: Potions of Stength(e)
       abbreviation: abv
     '8266':
       name: Potion of Slowness(e)
+      plural: Potions of Slowness(e)
       abbreviation: abv
     '8268':
       name: Potion of Harming
+      plural: Potions of Harming
       abbreviation: abv
     '8270':
       name: Potion of Invisibility(e)
+      plural: Potions of Invisibility(e)
       abbreviation: abv
     '16385':
       name: Potion of Regeneration(s)
+      plural: Potions of Regeneration(s)
       abbreviation: abv
     '16386':
       name: Potion of Swiftness(s)
+      plural: Potions of Swiftness(s)
       abbreviation: abv
     '16387':
       name: Potion of Fire Resistance(s)
+      plural: Potions of Fire Resistance(s)
       abbreviation: abv
     '16388':
       name: Potion of Poison(s)
+      plural: Potions of Poison(s)
       abbreviation: abv
     '16389':
       name: Potion of Instant Health(s)
+      plural: Potions of Instant Health(s)
       abbreviation: abv
     '16390':
       name: Potion of Night Vision(s)
+      plural: Potions of Night Vision(s)
       abbreviation: abv
     '16392':
       name: Potion of Weakness(s)
+      plural: Potions of Weakness(s)
       abbreviation: abv
     '16393':
       name: Potion of Stength(s)
+      plural: Potions of Stength(s)
       abbreviation: abv
     '16394':
       name: Potion of Slowness(s)
+      plural: Potions of Slowness(s)
       abbreviation: abv
     '16396':
       name: Potion of Harming(s)
+      plural: Potions of Harming(s)
       abbreviation: abv
     '16398':
       name: Potion of Invisibility(s)
+      plural: Potions of Invisibility(s)
       abbreviation: abv
     '16417':
       name: Potion of Regeneration II(s)
+      plural: Potions of Regeneration II(s)
       abbreviation: abv
     '16418':
       name: Potion of Swiftness II(s)
+      plural: Potions of Swiftness II(s)
       abbreviation: abv
     '16419':
       name: Potion of Fire Resistance(s)
+      plural: Potions of Fire Resistance(s)
       abbreviation: abv
     '16420':
       name: Potion of Poison II(s)
+      plural: Potions of Poison II(s)
       abbreviation: abv
     '16421':
       name: Potion of Instant Health II(s)
+      plural: Potions of Instant Health II(s)
       abbreviation: abv
     '16422':
       name: Potion of Night Vision(s)
+      plural: Potions of Night Vision(s)
       abbreviation: abv
     '16424':
       name: Potion of Weakness(s)
+      plural: Potions of Weakness(s)
       abbreviation: abv
     '16425':
       name: Potion of Stength II(s)
+      plural: Potions of Stength II(s)
       abbreviation: abv
     '16426':
       name: Potion of Slowness(s)
+      plural: Potions of Slowness(s)
       abbreviation: abv
     '16428':
       name: Potion of Harming II(s)
+      plural: Potions of Harming II(s)
       abbreviation: abv
     '16430':
       name: Potion of Invisibility(s)
+      plural: Potions of Invisibility(s)
       abbreviation: abv
     '16449':
       name: Potion of Regeneration(e,s)
+      plural: Potions of Regeneration(e,s)
       abbreviation: abv
     '16450':
       name: Potion of Swiftness(e,s)
+      plural: Potions of Swiftness(e,s)
       abbreviation: abv
     '16451':
       name: Potion of Fire Resistance(e,s)
+      plural: Potions of Fire Resistance(e,s)
       abbreviation: abv
     '16452':
       name: Potion of Poison(e,s)
+      plural: Potions of Poison(e,s)
       abbreviation: abv
     '16453':
       name: Potion of Instant Health(s)
+      plural: Potions of Instant Health(s)
       abbreviation: abv
     '16454':
       name: Potion of Night Vision(e,s)
+      plural: Potions of Night Vision(e,s)
       abbreviation: abv
     '16456':
       name: Potion of Weakness(e,s)
+      plural: Potions of Weakness(e,s)
       abbreviation: abv
     '16457':
       name: Potion of Stength(e,s)
+      plural: Potions of Stength(e,s)
       abbreviation: abv
     '16458':
       name: Potion of Slowness(e,s)
+      plural: Potions of Slowness(e,s)
       abbreviation: abv
     '16460':
       name: Potion of Harming(s)
+      plural: Potions of Harming(s)
       abbreviation: abv
     '16462':
       name: Potion of Invisibility(e,s)
+      plural: Potions of Invisibility(e,s)
       abbreviation: abv
   '374':
     '0':
       name: Glass Bottle
+      plural: Glass Bottles
       abbreviation: abv
   '375':
     '0':
       name: Spider Eye
+      plural: Spider Eyes
       abbreviation: abv
   '376':
     '0':
       name: Fermented Spider Eye
+      plural: Fermented Spider Eyes
       abbreviation: abv
   '377':
     '0':
       name: Blaze Powder
+      plural: Blaze Powder
       abbreviation: abv
   '378':
     '0':
       name: Magma Cream
+      plural: Magma Cream
       abbreviation: abv
   '379':
     '0':
-      name: Brewing Stand Item
+      name: Brewing Stand
+      plural: Brewing Stands
       abbreviation: abv
   '380':
     '0':
-      name: Cauldron Item
+      name: Cauldron
+      plural: Cauldrons
       abbreviation: abv
   '381':
     '0':
       name: Eye Of Ender
+      plural: Eyes Of Ender
       abbreviation: abv
   '382':
     '0':
-      name: Speckled Melon
+      name: Glistering Melon
+      plural: Glistering Melons
       abbreviation: abv
   '383':
     '0':
-      name: Monster Egg
+      name: Spawn Egg
+      plural: Spawn Eggs
       abbreviation: abv
   '384':
     '0':
-      name: Exp bottle
+      name: Bottle o' Enchanting
+      plural: Bottles o' Enchanting
       abbreviation: abv
   '385':
     '0':
-      name: Fireball
+      name: Fire Charge
+      plural: Fire Charges
       abbreviation: abv
   '386':
     '0':
       name: Book and Quill
+      plural: Books and Quills
       abbreviation: abv
   '387':
     '0':
       name: Written Book
+      plural: Written Books
       abbreviation: abv
   '388':
     '0':
       name: Emerald
+      plural: Emeralds
       abbreviation: abv
   '389':
     '0':
       name: Item Frame
+      plural: Item Frames
       abbreviation: abv
   '390':
     '0':
-      name: Flower Pot Item
+      name: Flower Pot
+      plural: Flower Pots
       abbreviation: abv
   '391':
     '0':
-      name: Carrot Item
+      name: Carrot
+      plural: Carrots
       abbreviation: abv
   '392':
     '0':
-      name: Potato Item
+      name: Potato
+      plural: Potatoes
       abbreviation: abv
   '393':
     '0':
       name: Baked Potato
+      plural: Baked Potatoes
       abbreviation: abv
   '394':
     '0':
       name: Poisonous Potato
+      plural: Poisonous Potatoes
       abbreviation: abv
   '395':
     '0':
       name: Empty Map
+      plural: Empty Maps
       abbreviation: abv
   '396':
     '0':
       name: Golden Carrot
+      plural: Golden Carrots
       abbreviation: abv
   '397':
     '0':
-      name: Skull Item
+      name: Skull
+      plural: Skulls
       abbreviation: abv
   '398':
     '0':
-      name: Carrot Stick
+      name: Carrot on a Stick
+      plural: Carrot on a Stick
       abbreviation: abv
   '399':
     '0':
       name: Nether Star
+      plural: Nether Stars
       abbreviation: abv
   '400':
     '0':
       name: Pumpkin Pie
+      plural: Pumpkin Pies
       abbreviation: abv
   '401':
     '0':
-      name: Firework
+      name: Firework Rocket
+      plural: Firework Rockets
       abbreviation: abv
   '402':
     '0':
-      name: Firework Charge
+      name: Firework Star
+      plural: Firework Stars
       abbreviation: abv
   '403':
     '0':
       name: Enchanted Book
+      plural: Enchanted Books
       abbreviation: abv
   '404':
     '0':
       name: Redstone Comparator
+      plural: Redstone Comparators
       abbreviation: abv
   '405':
     '0':
       name: Nether Brick
+      plural: Nether Bricks
       abbreviation: abv
   '406':
     '0':
       name: Nether Quartz
+      plural: Nether Quartzes
       abbreviation: abv
   '407':
     '0':
       name: Minecart with TNT
+      plural: Minecarts with TNT
       abbreviation: abv
   '408':
     '0':
       name: Minecart with Hopper
+      plural: Minecarts with Hopper
       abbreviation: abv
   '2256':
     '0':
       name: 13 Disc
+      plural: 13 Discs
       abbreviation: abv
   '2257':
     '0':
       name: Cat Disc
+      plural: Cat Discs
       abbreviation: abv
   '2258':
     '0':
       name: blocks Disc
+      plural: blocks Discs
       abbreviation: abv
   '2259':
     '0':
       name: chirp Disc
+      plural: chirp Discs
       abbreviation: abv
   '2260':
     '0':
       name: far Disc
+      plural: far Discs
       abbreviation: abv
   '2261':
     '0':
       name: mall Disc
+      plural: mall Discs
       abbreviation: abv
   '2262':
     '0':
       name: mellohi Disc
+      plural: mellohi Discs
       abbreviation: abv
   '2263':
     '0':
       name: stal Disc
+      plural: stal Discs
       abbreviation: abv
   '2264':
     '0':
       name: strad Disc
+      plural: strad Discs
       abbreviation: abv
   '2265':
     '0':
       name: ward Disc
+      plural: ward Discs
       abbreviation: abv
   '2266':
     '0':
       name: 11 Disc
+      plural: 11 Discs
       abbreviation: abv
   '2267':
     '0':
       name: wait Disc
+      plural: wait Discs
       abbreviation: abv
 enchants:
   PROTECTION_ENVIRONMENTAL:
     name: Protection
-    abbreviation: abv
+    abbreviation: abv 
   PROTECTION_FIRE:
     name: Fire Protection
-    abbreviation: abv
+    abbreviation: abv 
   PROTECTION_FALL:
     name: Feather Falling
-    abbreviation: abv
+    abbreviation: abv 
   PROTECTION_EXPLOSIONS:
     name: Blast Protection
-    abbreviation: abv
+    abbreviation: abv 
   PROTECTION_PROJECTILE:
     name: Projectile Protection
-    abbreviation: abv
+    abbreviation: abv 
   OXYGEN:
     name: Respiration
-    abbreviation: abv
+    abbreviation: abv 
   WATER_WORKER:
     name: Aqua Affinity
-    abbreviation: abv
+    abbreviation: abv 
   THORNS:
     name: Thorns
-    abbreviation: abv
+    abbreviation: abv 
   DAMAGE_ALL:
     name: Sharpness
-    abbreviation: abv
+    abbreviation: abv 
   DAMAGE_UNDEAD:
     name: Smite
-    abbreviation: abv
+    abbreviation: abv 
   DAMAGE_ARTHROPODS:
     name: Bane of Arthropods
-    abbreviation: abv
+    abbreviation: abv 
   KNOCKBACK:
     name: Knockback
-    abbreviation: abv
+    abbreviation: abv 
   FIRE_ASPECT:
     name: Fire Aspect
-    abbreviation: abv
+    abbreviation: abv 
   LOOT_BONUS_MOBS:
     name: Looting
-    abbreviation: abv
+    abbreviation: abv 
   DIG_SPEED:
     name: Effeciency
-    abbreviation: abv
+    abbreviation: abv 
   SILK_TOUCH:
     name: Silk Touch
-    abbreviation: abv
+    abbreviation: abv 
   DURABILITY:
     name: Unbreaking
-    abbreviation: abv
+    abbreviation: abv 
   LOOT_BONUS_BLOCKS:
     name: Fortune
-    abbreviation: abv
+    abbreviation: abv 
   ARROW_DAMAGE:
     name: Power
-    abbreviation: abv
+    abbreviation: abv 
   ARROW_KNOCKBACK:
     name: Punch
-    abbreviation: abv
+    abbreviation: abv 
   ARROW_FIRE:
     name: Flame
-    abbreviation: abv
+    abbreviation: abv 
   ARROW_INFINITE:
     name: Infinity
-    abbreviation: abv
+    abbreviation: abv 

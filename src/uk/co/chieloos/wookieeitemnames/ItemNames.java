@@ -6,10 +6,9 @@ import org.bukkit.Material;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.enchantments.Enchantment;
-import org.bukkit.inventory.ItemStack;
 
 public final class ItemNames {
-
+//TODO: add plural methods
     private Logger logger;
     private FileConfiguration INConfig = null;
     private FileConfiguration cfg;
@@ -24,18 +23,19 @@ public final class ItemNames {
     }
 
     /**
-     * Returns an item String based on WookieeItemNames config.yml <p> If an
-     * itemname:datavalue is not found it will return null, otherwise the String
+     * Returns an item String based on WookieeItemNames config.yml <p> If a
+     * Material:datavalue is not found it will return null, otherwise the String
      * paired with the WookieeItemNames config.yml
      *
      * @param material a bukkit Material object
      * @param dataval the data value for an item, 0 if an itemname doesn't have
      * a data value
+     * @param plural whether to get the singular or plural name
      * @return a string associated with the Material data value pair or null if
      * not found
      */
-    public String getItemName(Material material, int dataval) {
-        String name = getItemName(material.getId(), dataval);
+    public String getItemName(Material material, int dataval, boolean plural) {
+        String name = getItemName(material.getId(), dataval, plural);
         if (name != null) {
             //logger.info("Found");
             return name;
@@ -51,13 +51,14 @@ public final class ItemNames {
      * @param itemname a bukkit itemname usually given as ITEM_NAME
      * @param dataval the data value for an item, 0 if an itemname doesn't have
      * a data value
+     * @param plural whether to get the singular or plural name
      * @return a string associated with the itemname data value pair or null if
      * not found
      */
-    public String getItemName(String itemname, int dataval) {
+    public String getItemName(String itemname, int dataval, boolean plural) {
         Material itemmat = Material.getMaterial(itemname);
         if (itemmat != null) {
-            String name = getItemName(itemmat.getId(), dataval);
+            String name = getItemName(itemmat.getId(), dataval, plural);
             if (name != null) {
                 //logger.info("Found");
                 return name;
@@ -73,13 +74,20 @@ public final class ItemNames {
      *
      * @param itemid an item id
      * @param dataval the data value for an item, 0 if an itemname doesn't have
+     * @param plural whether to get the singular or plural name
      * a data value
      * @return a string associated with the itemid data value pair or if not
      * found, attempt to return Material.name(), else null
      */
-    public String getItemName(int itemid, int dataval) {
+    public String getItemName(int itemid, int dataval, boolean plural) {
         String name;
-        name = cfg.getString("items." + itemid + "." + dataval + ".name");
+        String type;
+        if (plural){
+            type = "plural";
+        } else {
+            type = "name";
+        }
+        name = cfg.getString("items." + itemid + "." + dataval + "." + type);
         if (name == null) {
             Material itemmat = Material.getMaterial(itemid);
             if (itemmat == null) {

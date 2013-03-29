@@ -31,6 +31,9 @@ public final class WookieeItemNames extends JavaPlugin {
         if (!file.exists()) {
             getConfig().options().copyDefaults(true);
             saveConfig();
+        } else {
+            getConfig().options().copyDefaults(true);
+            saveConfig();
         }
     }
 }
